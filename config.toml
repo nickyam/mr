@@ -100,35 +100,40 @@ mainSections = ["posts"]
 # ---------------------------------------------------------------------
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
+    identifier = "crypto"
+    name = "Crypto"
+    url = "/categories/crypto/"
     weight = 10
   [[menu.main]]
-    identifier = "archives"
-    name = "Archives"
-    url = "/archives/"
+    identifier = "tech"
+    name = "Tech"
+    url = "/categories/tech/"
     weight = 20
+  [[menu.main]]
+    identifier = "world"
+    name = "World"
+    url = "/categories/world/"
+    weight = 30
   [[menu.main]]
     identifier = "tags"
     name = "Tags"
     url = "/tags/"
-    weight = 30
-  [[menu.main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories/"
     weight = 40
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 50
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 50
+    weight = 60
   [[menu.main]]
     identifier = "search"
     name = "Search"
     url = "/search/"
-    weight = 60
+    weight = 70
 
 # ---------------------------------------------------------------------
 # Output formats
