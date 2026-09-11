@@ -71,7 +71,8 @@ Both are unwise. The professional approach is to treat it as a long race: the sw
 
 Those who prepare in advance can face danger without fear, and remain calm and composed.
 
-*References*
-[1] Eigen Labs, "ECDSA.Fail" public challenge (May–July 2026) and its associated paper; participants include Eigen Labs, the Ethereum Foundation, StarkWare, Trail of Bits, and Justin Drake.
-[2] Galaxy Digital's research pledge, and the joint nine-institution ($15M / three-year) Bitcoin security commitment (BlackRock, Coinbase, Strategy, et al.).
-[3] NIST IR 8547 draft; Bitcoin BIP-360 / BIP-361 discussions; US Department of Commerce awards to Rigetti, D-Wave, and Quantinuum.
+## References
+
+- **[1]** Eigen Labs, "ECDSA.Fail" public challenge (May–July 2026) and its associated paper; participants include Eigen Labs, the Ethereum Foundation, StarkWare, Trail of Bits, and Justin Drake.
+- **[2]** Galaxy Digital's research pledge, and the joint nine-institution ($15M / three-year) Bitcoin security commitment (BlackRock, Coinbase, Strategy, et al.).
+- **[3]** NIST IR 8547 draft; Bitcoin BIP-360 / BIP-361 discussions; US Department of Commerce awards to Rigetti, D-Wave, and Quantinuum.
