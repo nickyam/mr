@@ -11,6 +11,8 @@ tags:
   - "Ordinals"
   - "Softfork"
 url: "/Crypto/BIP-110-Fork-Fails-Who-Can-Change-Bitcoin.html"
+aliases:
+  - "/Crypto/BIP-110-Fork-Fails-Who-Changes-Bitcoin.html"
 ---
 
 **TL;DR**
