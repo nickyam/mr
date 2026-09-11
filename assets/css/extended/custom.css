@@ -4,17 +4,46 @@
    ========================================================================= */
 
 /* -------------------------------------------------------------------------
-   Align content width with the top navigation
+   Align content width with the top navigation (Medium-style reading width)
    PaperMod sets the header to --nav-width and the main content + footer to
    --main-width by default, which makes the body narrower than the nav. Set
-   both to a shared 860px so the homepage post cards, the article body and the
-   footer line up with the nav's left edge (Mr.Yam) and right edge (Search),
-   while keeping the article body comfortably readable.
+   both to a shared 680px so the homepage post cards, the article body and the
+   footer line up with the nav's left edge (Mr.Yam) and right edge (Search).
+   680px matches Medium's reading column (~42rem), keeping each line in the
+   comfortable 60-75 character range instead of the old 860px wide measure.
    Mobile stays self-adapting: both are max-width (not fixed width) with the
    same --gap padding, so they collapse to full width together.
    ------------------------------------------------------------------------- */
 :root {
-  --nav-width: 860px;
-  --main-width: 860px;
+  --nav-width: 680px;
+  --main-width: 680px;
+}
+
+/* Medium-like reading comfort + typeface.
+   - UI / nav / headings keep the theme's system sans stack (already
+     -apple-system, BlinkMacSystemFont, Segoe UI, Roboto... — same fallback
+     Medium's "sohne" uses), so no external font fetch (fast in China).
+   - Article + About prose switch to Medium's classic reading serif
+     (Charter / Georgia) at 20px with 1.7 line-height. Covers posts and
+     single pages (both render inside .post-content). System serif only,
+     again no web-font download. */
+.post-content {
+  font-family: Charter, "Bitstream Charter", Georgia, "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 1.7;
+}
+
+/* Medium-style article title: heavy and a touch larger than the theme default.
+   Kept on the sans stack — Medium's title is sans while only the body is serif.
+   Mobile gets a smaller size so it doesn't overflow the narrow screen. */
+.post-title {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 1.2;
+}
+@media (max-width: 600px) {
+  .post-title {
+    font-size: 32px;
+  }
 }
 
