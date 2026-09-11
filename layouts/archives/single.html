@@ -1,0 +1,25 @@
+{{ define "main" }}
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}<div class="post-description">{{ . }}</div>{{- end }}
+</header>
+
+{{- $pages := where .Site.RegularPages "Section" "posts" -}}
+{{- if $pages -}}
+  {{- range $pages.GroupByDate "2006" -}}
+  <div class="archives-year-block">
+    <h2 class="archives-year">{{ .Key }}</h2>
+    <ul class="archives-list">
+      {{- range .Pages -}}
+      <li class="archives-item">
+        <span class="archives-date">{{ .Date.Format "2006-01-02" }}</span>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+      {{- end -}}
+    </ul>
+  </div>
+  {{- end -}}
+{{- else -}}
+  <p>No posts yet.</p>
+{{- end -}}
+{{ end }}

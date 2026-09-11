@@ -1,0 +1,137 @@
+# =====================================================================
+# Mr.Yam — Hugo (PaperMod) configuration
+# Migrated from Hexo (permalink: :category/:title.html)
+# =====================================================================
+
+baseURL = "https://mr.nickyam.com/"
+languageCode = "en-us"
+title = "Mr.Yam"
+theme = "PaperMod"
+
+# GitHub Pages: publish the built site into /docs so it can be served from the
+# main branch's /docs folder (repo Settings > Pages > Branch: main, Folder: /docs).
+publishDir = "docs"
+
+# Pagination (Hexo index_generator.per_page = 10)
+paginate = 10
+
+enableGitInfo = false
+# Posts live under content/posts/ but their public URL is forced via
+# per-page `url` frontmatter to keep the old Hexo permalinks intact.
+defaultContentLanguage = "en"
+
+# ---------------------------------------------------------------------
+# Taxonomies — Hugo defaults (kept explicit so nothing is silently dropped)
+# ---------------------------------------------------------------------
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# ---------------------------------------------------------------------
+# Markup — render raw HTML inside posts (the two <img> HTML tags, etc.)
+# ---------------------------------------------------------------------
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    lineNos = false
+    noClasses = false
+
+# ---------------------------------------------------------------------
+# PaperMod parameters
+# ---------------------------------------------------------------------
+[params]
+  title = "Mr.Yam"
+  description = "Mr.Yam — Bitcoin, crypto, Web3 and technology commentary. East Tells West."
+  author = "Nick Yam"
+  keywords = ["crypto", "btc", "china", "bitcoin", "web3", "tech"]
+
+  # Theme / UI
+  defaultTheme = "light"
+  disableThemeToggle = false
+  # Keep every homepage entry the same size (no extra-large "featured" first post).
+  # Remove this line if you want the newest post to render as a big hero card.
+  disableSpecial1stPost = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+
+  # Client-side search (PaperMod fastsearch.js + Fuse.js).
+  # Default theme threshold is 0.4, which is far too loose for full-text post
+  # content: a query returns almost every post as a fuzzy near-match, even ones
+  # that do not contain the term. 0.1 keeps matches precise (only posts whose
+  # title/content/summary/permalink actually contain the query) while still
+  # allowing minor typos. Verified against the real index.json.
+  [params.fuseOpts]
+    threshold = 0.1
+
+  # Force OG / Twitter / JSON-LD rendering even in `hugo server` dev mode
+  # (production build already enables them via hugo.IsProduction)
+  env = "production"
+
+  # Social icons — PaperMod renders these ONLY inside the home info block
+  # (homeInfoParams) or profile mode. Both are disabled, so nothing shows now;
+  # kept here so re-enabling the intro block / profile mode restores the RSS icon.
+  [[params.socialIcons]]
+    icon = "rss"
+    name = "RSS"
+    url = "https://mr.nickyam.com/index.xml"
+
+  # Home intro block (title + tagline + social icons) — intentionally removed.
+  # Uncomment to bring the hero back above the post list:
+  # [params.homeInfoParams]
+  #   Title = "Mr.Yam"
+  #   Content = "East Tells West — Bitcoin, crypto, Web3 and technology commentary."
+
+  # Sidebar social (edit as needed)
+  [params.sidebar]
+    enable = false
+
+# Which section feeds the homepage / pagination
+mainSections = ["posts"]
+
+# ---------------------------------------------------------------------
+# Menus
+# ---------------------------------------------------------------------
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+    weight = 20
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 30
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 40
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 50
+  [[menu.main]]
+    identifier = "search"
+    name = "Search"
+    url = "/search/"
+    weight = 60
+
+# ---------------------------------------------------------------------
+# Output formats
+# ---------------------------------------------------------------------
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

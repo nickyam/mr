@@ -1,0 +1,26 @@
+{{- /*
+  On-site search index (overrides the PaperMod theme's same-named template)
+
+  Why override:
+  The original theme template uses `$.Scratch.Add "index" ...` to accumulate
+  entries. The Page-level Scratch is NOT reset across renders within the same
+  Hugo process, so on every hot-reload in `hugo server` the home JSON output
+  re-appends all posts, inflating the index:
+      57 -> 114 -> 171 -> 228 ...
+  The result: each post appears multiple times in search (3 rebuilds = 3 copies).
+
+  This version uses a template-local variable $index, so each render starts
+  empty and output is constant. A permalink dedup guard is also added so
+  duplicate entries can never appear.
+*/ -}}
+{{- $index := slice -}}
+{{- $seen := slice -}}
+{{- range site.RegularPages -}}
+  {{- if and (not .Params.searchHidden) (ne .Layout "archives") (ne .Layout "search") -}}
+    {{- if not (in $seen .Permalink) -}}
+      {{- $seen = $seen | append .Permalink -}}
+      {{- $index = $index | append (dict "title" .Title "content" .Plain "permalink" .Permalink "summary" .Summary) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $index | jsonify -}}

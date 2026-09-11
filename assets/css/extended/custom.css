@@ -1,0 +1,20 @@
+/* =========================================================================
+   Custom styles
+   PaperMod auto-loads every .css under assets/css/extended/ (no theme edit needed)
+   ========================================================================= */
+
+/* -------------------------------------------------------------------------
+   Align content width with the top navigation
+   PaperMod sets the header to --nav-width and the main content + footer to
+   --main-width by default, which makes the body narrower than the nav. Set
+   both to a shared 860px so the homepage post cards, the article body and the
+   footer line up with the nav's left edge (Mr.Yam) and right edge (Search),
+   while keeping the article body comfortably readable.
+   Mobile stays self-adapting: both are max-width (not fixed width) with the
+   same --gap padding, so they collapse to full width together.
+   ------------------------------------------------------------------------- */
+:root {
+  --nav-width: 860px;
+  --main-width: 860px;
+}
+
