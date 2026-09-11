@@ -1,0 +1,7 @@
+{{- /* Post content custom area: English disclaimer appended to every post. */ -}}
+{{- /* Scoped to the posts section so pages like About are not affected. */ -}}
+{{- if and .IsPage (eq .Section "posts") }}
+<aside class="post-disclaimer">
+  <strong>Disclaimer:</strong> This article reflects only the author's personal and subjective views and does not constitute investment advice of any kind. The crypto market is highly volatile and carries extreme risk. Please exercise your own judgment, decide cautiously, and bear all associated risks and consequences.
+</aside>
+{{- end }}
