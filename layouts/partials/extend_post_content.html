@@ -1,6 +1,6 @@
-{{- /* Post content custom area: English disclaimer appended to every post. */ -}}
-{{- /* Scoped to the posts section so pages like About are not affected. */ -}}
-{{- if and .IsPage (eq .Section "posts") }}
+{{- /* Post content custom area: English disclaimer appended to posts. */ -}}
+{{- /* Scoped to the posts section AND the Crypto category only. */ -}}
+{{- if and .IsPage (eq .Section "posts") (in .Params.categories "Crypto") }}
 <aside class="post-disclaimer">
   <strong>Disclaimer:</strong> This article reflects only the author's personal and subjective views and does not constitute investment advice of any kind. The crypto market is highly volatile and carries extreme risk. Please exercise your own judgment, decide cautiously, and bear all associated risks and consequences.
 </aside>
