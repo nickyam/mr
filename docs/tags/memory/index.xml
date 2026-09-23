@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Memory on Mr.Yam</title>
-    <link>http://localhost:56012/tags/memory/</link>
-    <description>Recent content in Memory on Mr.Yam</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:42:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:56012/tags/memory/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why the Midpoint of Your Life Is 18, Not 40</title>
-      <link>http://localhost:56012/World/Why-the-Midpoint-of-Life-Is-18-Not-40.html</link>
-      <pubDate>Wed, 16 Sep 2026 22:42:00 +0800</pubDate>
-      <guid>http://localhost:56012/World/Why-the-Midpoint-of-Life-Is-18-Not-40.html</guid>
-      <description>&lt;p&gt;You have probably had that moment: scrolling through old photos, you suddenly realize that being 18 was more than a decade ago. The cicadas of your college-entrance-exam summer still seem to buzz in your ears, yet the calendar tells you plainly that you have traveled very, very far.&lt;/p&gt;
-&lt;p&gt;As children, summers stretched on without end — a single piece of candy, a breeze, could spend an entire afternoon. Now the four seasons feel fast-forwarded: the resolutions you made at New Year&amp;rsquo;s barely get started before the year is already over.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Memory on Mr.Yam</title><link>https://mr.nickyam.com/tags/memory/</link><description>Recent content in Memory on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2026 22:42:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/memory/index.xml" rel="self" type="application/rss+xml"/><item><title>Why the Midpoint of Your Life Is 18, Not 40</title><link>https://mr.nickyam.com/World/Why-the-Midpoint-of-Life-Is-18-Not-40.html</link><pubDate>Wed, 16 Sep 2026 22:42:00 +0800</pubDate><guid>https://mr.nickyam.com/World/Why-the-Midpoint-of-Life-Is-18-Not-40.html</guid><description>&lt;p&gt;You have probably had that moment: scrolling through old photos, you suddenly realize that being 18 was more than a decade ago. The cicadas of your college-entrance-exam summer still seem to buzz in your ears, yet the calendar tells you plainly that you have traveled very, very far.&lt;/p&gt;
+&lt;p&gt;As children, summers stretched on without end — a single piece of candy, a breeze, could spend an entire afternoon. Now the four seasons feel fast-forwarded: the resolutions you made at New Year&amp;rsquo;s barely get started before the year is already over.&lt;/p&gt;</description></item></channel></rss>

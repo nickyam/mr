@@ -1,21 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Korea on Mr.Yam</title>
-    <link>http://localhost:56012/tags/korea/</link>
-    <description>Recent content in Korea on Mr.Yam</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2026 10:36:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:56012/tags/korea/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>South Korea Bans 29 Overseas Crypto Exchanges — MEXC, OKX, KuCoin and Others Delisted</title>
-      <link>http://localhost:56012/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges.html</link>
-      <pubDate>Wed, 05 Aug 2026 10:36:00 +0800</pubDate>
-      <guid>http://localhost:56012/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges.html</guid>
-      <description>&lt;p&gt;Overnight, the apps of 29 overseas crypto exchanges vanished from Google Play in South Korea. This was no technical glitch — it was a surgical strike by Korean regulators.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Korea on Mr.Yam</title><link>https://mr.nickyam.com/tags/korea/</link><description>Recent content in Korea on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2026 10:36:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/korea/index.xml" rel="self" type="application/rss+xml"/><item><title>South Korea Bans 29 Overseas Crypto Exchanges — MEXC, OKX, KuCoin and Others Delisted</title><link>https://mr.nickyam.com/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges.html</link><pubDate>Wed, 05 Aug 2026 10:36:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges.html</guid><description>&lt;p&gt;Overnight, the apps of 29 overseas crypto exchanges vanished from Google Play in South Korea. This was no technical glitch — it was a surgical strike by Korean regulators.&lt;/p&gt;
 &lt;p&gt;On July 24, 2026, South Korea&amp;rsquo;s crypto community erupted. Search Google Play for OKX, Bybit, MEXC, KuCoin, Gemini, or BitMEX — all gone.&lt;/p&gt;
-&lt;p&gt;The trigger was a long-gestating action by the Korea Financial Intelligence Unit (KoFIU): &lt;strong&gt;every overseas exchange app that has not completed Virtual Asset Service Provider (VASP) registration with the KoFIU is to be removed from Google Play&lt;/strong&gt;[1].&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;The trigger was a long-gestating action by the Korea Financial Intelligence Unit (KoFIU): &lt;strong&gt;every overseas exchange app that has not completed Virtual Asset Service Provider (VASP) registration with the KoFIU is to be removed from Google Play&lt;/strong&gt;[1].&lt;/p&gt;</description></item></channel></rss>

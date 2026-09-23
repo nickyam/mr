@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Short Squeeze on Mr.Yam</title>
-    <link>http://localhost:56012/tags/short-squeeze/</link>
-    <description>Recent content in Short Squeeze on Mr.Yam</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:19:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:56012/tags/short-squeeze/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Shorts Never Die, the Squeeze Never Stops</title>
-      <link>http://localhost:56012/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops.html</link>
-      <pubDate>Tue, 22 Sep 2026 11:19:00 +0800</pubDate>
-      <guid>http://localhost:56012/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops.html</guid>
-      <description>&lt;p&gt;Overnight, Bitcoin suddenly rallied. A single candle of more than 7% shot straight from the 81k zone to 87k, marking a new high for this rebound that began in late August. The market erupted in celebration. Some pounded their chests over missed opportunities, some scrambled to reposition, some smugly patted themselves on the back.&lt;/p&gt;
-&lt;p&gt;This move was a pure cascade of short liquidations — what is commonly called a short squeeze.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Short Squeeze on Mr.Yam</title><link>https://mr.nickyam.com/tags/short-squeeze/</link><description>Recent content in Short Squeeze on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2026 11:19:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/short-squeeze/index.xml" rel="self" type="application/rss+xml"/><item><title>Shorts Never Die, the Squeeze Never Stops</title><link>https://mr.nickyam.com/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops.html</link><pubDate>Tue, 22 Sep 2026 11:19:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops.html</guid><description>&lt;p&gt;Overnight, Bitcoin suddenly rallied. A single candle of more than 7% shot straight from the 81k zone to 87k, marking a new high for this rebound that began in late August. The market erupted in celebration. Some pounded their chests over missed opportunities, some scrambled to reposition, some smugly patted themselves on the back.&lt;/p&gt;
+&lt;p&gt;This move was a pure cascade of short liquidations — what is commonly called a short squeeze.&lt;/p&gt;</description></item></channel></rss>

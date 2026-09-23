@@ -1,24 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Chip on Mr.Yam</title>
-    <link>http://localhost:56012/tags/chip/</link>
-    <description>Recent content in Chip on Mr.Yam</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 19:31:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:56012/tags/chip/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Birth of the On-Chain Chip</title>
-      <link>http://localhost:56012/Crypto/The-Birth-of-the-On-Chain-Chip.html</link>
-      <pubDate>Tue, 18 Aug 2026 19:31:00 +0800</pubDate>
-      <guid>http://localhost:56012/Crypto/The-Birth-of-the-On-Chain-Chip.html</guid>
-      <description>&lt;p&gt;A fascinating and wildly imaginative project has appeared recently: tapeout.net.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Chip on Mr.Yam</title><link>https://mr.nickyam.com/tags/chip/</link><description>Recent content in Chip on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2026 19:31:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/chip/index.xml" rel="self" type="application/rss+xml"/><item><title>The Birth of the On-Chain Chip</title><link>https://mr.nickyam.com/Crypto/The-Birth-of-the-On-Chain-Chip.html</link><pubDate>Tue, 18 Aug 2026 19:31:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The-Birth-of-the-On-Chain-Chip.html</guid><description>&lt;p&gt;A fascinating and wildly imaginative project has appeared recently: tapeout.net.&lt;/p&gt;
 &lt;p&gt;Put simply, it lets users create their own integrated circuit on-chain.&lt;/p&gt;
-&lt;h2 id=&#34;from-transistors-to-cpus&#34;&gt;From Transistors to CPUs&lt;/h2&gt;
+&lt;h2 id="from-transistors-to-cpus"&gt;From Transistors to CPUs&lt;/h2&gt;
 &lt;p&gt;Before getting into the project, some background on logic circuits is in order.&lt;/p&gt;
 &lt;p&gt;Strip the casing off any chip product we use today and keep decomposing it, layer by layer, and you will find that it is ultimately built from one most basic component.&lt;/p&gt;
-&lt;p&gt;That component is the transistor.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;That component is the transistor.&lt;/p&gt;</description></item></channel></rss>

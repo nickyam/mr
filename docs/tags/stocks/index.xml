@@ -1,22 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Stocks on Mr.Yam</title>
-    <link>http://localhost:56012/tags/stocks/</link>
-    <description>Recent content in Stocks on Mr.Yam</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2026 18:06:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:56012/tags/stocks/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Stocks Going Fully On-Chain: RWA&#39;s True Potential</title>
-      <link>http://localhost:56012/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential.html</link>
-      <pubDate>Mon, 21 Sep 2026 18:06:00 +0800</pubDate>
-      <guid>http://localhost:56012/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential.html</guid>
-      <description>&lt;p&gt;A while back, CZ posted a view online that &amp;ldquo;IPOs will move on chain,&amp;rdquo; which sparked a lot of discussion at the time.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Stocks on Mr.Yam</title><link>https://mr.nickyam.com/tags/stocks/</link><description>Recent content in Stocks on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2026 18:06:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/stocks/index.xml" rel="self" type="application/rss+xml"/><item><title>Stocks Going Fully On-Chain: RWA's True Potential</title><link>https://mr.nickyam.com/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential.html</link><pubDate>Mon, 21 Sep 2026 18:06:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential.html</guid><description>&lt;p&gt;A while back, CZ posted a view online that &amp;ldquo;IPOs will move on chain,&amp;rdquo; which sparked a lot of discussion at the time.&lt;/p&gt;
 &lt;p&gt;I saw that view too, but it didn&amp;rsquo;t strike me as particularly profound.&lt;/p&gt;
 &lt;p&gt;Looking back now, my initial reaction was simply that such a view amounted to this:&lt;/p&gt;
-&lt;p&gt;In the future, a stock&amp;rsquo;s IPO, besides happening on traditional centralized exchanges, might also place a portion on the blockchain. That is essentially no different from today&amp;rsquo;s tokenized stock trading — it still maps some off-chain business onto the chain, letting the business run both off-chain and on-chain.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;In the future, a stock&amp;rsquo;s IPO, besides happening on traditional centralized exchanges, might also place a portion on the blockchain. That is essentially no different from today&amp;rsquo;s tokenized stock trading — it still maps some off-chain business onto the chain, letting the business run both off-chain and on-chain.&lt;/p&gt;</description></item></channel></rss>

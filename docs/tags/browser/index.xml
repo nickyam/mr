@@ -1,20 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Browser on Mr.Yam</title>
-    <link>http://localhost:56012/tags/browser/</link>
-    <description>Recent content in Browser on Mr.Yam</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Dec 2011 20:12:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:56012/tags/browser/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The New Trend of Speed ​​Dial</title>
-      <link>http://localhost:56012/Tech/The_New_Trend_of_Speed-_Dial.html</link>
-      <pubDate>Wed, 28 Dec 2011 20:12:00 +0800</pubDate>
-      <guid>http://localhost:56012/Tech/The_New_Trend_of_Speed-_Dial.html</guid>
-      <description>&lt;p&gt;We all know Speed Dial comes from Opera Browser.&lt;/p&gt;
-&lt;p&gt;Another innovation of the opera in the speed dial is the extension introduced to Speed ​​Dial. But I believe that this can be used in only a few plug-ins or extensions , not all plug-ins are suitable in the Speed ​​Dial.However, the original Speed ​​Dial feature, which is the bookmark feature, can indeed be expanded.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Browser on Mr.Yam</title><link>https://mr.nickyam.com/tags/browser/</link><description>Recent content in Browser on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 28 Dec 2011 20:12:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/browser/index.xml" rel="self" type="application/rss+xml"/><item><title>The New Trend of Speed ​​Dial</title><link>https://mr.nickyam.com/Tech/The_New_Trend_of_Speed-_Dial.html</link><pubDate>Wed, 28 Dec 2011 20:12:00 +0800</pubDate><guid>https://mr.nickyam.com/Tech/The_New_Trend_of_Speed-_Dial.html</guid><description>&lt;p&gt;We all know Speed Dial comes from Opera Browser.&lt;/p&gt;
+&lt;p&gt;Another innovation of the opera in the speed dial is the extension introduced to Speed ​​Dial. But I believe that this can be used in only a few plug-ins or extensions , not all plug-ins are suitable in the Speed ​​Dial.However, the original Speed ​​Dial feature, which is the bookmark feature, can indeed be expanded.&lt;/p&gt;</description></item></channel></rss>

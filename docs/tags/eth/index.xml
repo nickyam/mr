@@ -1,39 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>ETH on Mr.Yam</title>
-    <link>http://localhost:56012/tags/eth/</link>
-    <description>Recent content in ETH on Mr.Yam</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 18 Aug 2026 19:31:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:56012/tags/eth/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Birth of the On-Chain Chip</title>
-      <link>http://localhost:56012/Crypto/The-Birth-of-the-On-Chain-Chip.html</link>
-      <pubDate>Tue, 18 Aug 2026 19:31:00 +0800</pubDate>
-      <guid>http://localhost:56012/Crypto/The-Birth-of-the-On-Chain-Chip.html</guid>
-      <description>&lt;p&gt;A fascinating and wildly imaginative project has appeared recently: tapeout.net.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>ETH on Mr.Yam</title><link>https://mr.nickyam.com/tags/eth/</link><description>Recent content in ETH on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 18 Aug 2026 19:31:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/eth/index.xml" rel="self" type="application/rss+xml"/><item><title>The Birth of the On-Chain Chip</title><link>https://mr.nickyam.com/Crypto/The-Birth-of-the-On-Chain-Chip.html</link><pubDate>Tue, 18 Aug 2026 19:31:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The-Birth-of-the-On-Chain-Chip.html</guid><description>&lt;p&gt;A fascinating and wildly imaginative project has appeared recently: tapeout.net.&lt;/p&gt;
 &lt;p&gt;Put simply, it lets users create their own integrated circuit on-chain.&lt;/p&gt;
-&lt;h2 id=&#34;from-transistors-to-cpus&#34;&gt;From Transistors to CPUs&lt;/h2&gt;
+&lt;h2 id="from-transistors-to-cpus"&gt;From Transistors to CPUs&lt;/h2&gt;
 &lt;p&gt;Before getting into the project, some background on logic circuits is in order.&lt;/p&gt;
 &lt;p&gt;Strip the casing off any chip product we use today and keep decomposing it, layer by layer, and you will find that it is ultimately built from one most basic component.&lt;/p&gt;
-&lt;p&gt;That component is the transistor.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Security Debate and Collision between Proof of Stake (PoS) and Proof of Work (PoW) since Ethereum&#39;s Transition</title>
-      <link>http://localhost:56012/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition.html</link>
-      <pubDate>Thu, 08 Jun 2023 16:16:32 +0800</pubDate>
-      <guid>http://localhost:56012/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition.html</guid>
-      <description>&lt;p&gt;Ever since Ethereum transitioned from PoW to PoS, the discussion and collision regarding the security of PoS and PoW have become a focal point. As early as November 6, 2020, Vitalik Buterin wrote a blog post titled &amp;ldquo;Why Proof of Stake&amp;rdquo; , where he conducted some calculations. His calculations indicated that, given equal security costs, PoS is safer than PoW.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>On the Self-Limitation of Ethereum</title>
-      <link>http://localhost:56012/Crypto/On-the-Self-Limitation-of-Ethereum.html</link>
-      <pubDate>Tue, 30 May 2023 22:11:32 +0800</pubDate>
-      <guid>http://localhost:56012/Crypto/On-the-Self-Limitation-of-Ethereum.html</guid>
-      <description>&lt;p&gt;Recently, the similarities and differences between Bitcoin and Ethereum regarding the issue of price self-limitation have also been discussed. Some further thoughts and analysis are recorded below for readers&amp;rsquo; discussion and criticism.&lt;img loading=&#34;lazy&#34; src=&#34;https://telegraph-image.pages.dev/file/3b97d5f2b70bfab540ab8.jpg&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The issue of self-limitation is actually somewhat subtle. Ethereum also draws on Bitcoin&amp;rsquo;s method of dynamically adjusting transaction fees (miner fees) in its calculations. For Bitcoin, the miner fee = vBytes (transaction size in bytes) * fee/vBytes (fee rate denominated in BTC); for Ethereum, the gas fee = gas (amount of computational resources consumed by instructions) * gas price (denominated in ETH). Therefore, on the surface, there doesn&amp;rsquo;t seem to be a problem with whether the fee rate or gas price is denominated in BTC, ETH, or USD. From the perspective of supply and demand economics, if the pricing currency relative to fiat currency is such that the expected fee income for miners (converted to fiat currency value) is just their cost (denominated in fiat currency) plus a reasonable profit, they can lower the fee rate (fee/vBytes or gas price) to maintain stability of the product of vBytes * fee/vBytes or gas * gas price relative to fiat currency.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;That component is the transistor.&lt;/p&gt;</description></item><item><title>The Security Debate and Collision between Proof of Stake (PoS) and Proof of Work (PoW) since Ethereum's Transition</title><link>https://mr.nickyam.com/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition.html</link><pubDate>Thu, 08 Jun 2023 16:16:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition.html</guid><description>&lt;p&gt;Ever since Ethereum transitioned from PoW to PoS, the discussion and collision regarding the security of PoS and PoW have become a focal point. As early as November 6, 2020, Vitalik Buterin wrote a blog post titled &amp;ldquo;Why Proof of Stake&amp;rdquo; , where he conducted some calculations. His calculations indicated that, given equal security costs, PoS is safer than PoW.&lt;/p&gt;</description></item><item><title>On the Self-Limitation of Ethereum</title><link>https://mr.nickyam.com/Crypto/On-the-Self-Limitation-of-Ethereum.html</link><pubDate>Tue, 30 May 2023 22:11:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/On-the-Self-Limitation-of-Ethereum.html</guid><description>&lt;p&gt;Recently, the similarities and differences between Bitcoin and Ethereum regarding the issue of price self-limitation have also been discussed. Some further thoughts and analysis are recorded below for readers&amp;rsquo; discussion and criticism.&lt;img loading="lazy" src="https://telegraph-image.pages.dev/file/3b97d5f2b70bfab540ab8.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;The issue of self-limitation is actually somewhat subtle. Ethereum also draws on Bitcoin&amp;rsquo;s method of dynamically adjusting transaction fees (miner fees) in its calculations. For Bitcoin, the miner fee = vBytes (transaction size in bytes) * fee/vBytes (fee rate denominated in BTC); for Ethereum, the gas fee = gas (amount of computational resources consumed by instructions) * gas price (denominated in ETH). Therefore, on the surface, there doesn&amp;rsquo;t seem to be a problem with whether the fee rate or gas price is denominated in BTC, ETH, or USD. From the perspective of supply and demand economics, if the pricing currency relative to fiat currency is such that the expected fee income for miners (converted to fiat currency value) is just their cost (denominated in fiat currency) plus a reasonable profit, they can lower the fee rate (fee/vBytes or gas price) to maintain stability of the product of vBytes * fee/vBytes or gas * gas price relative to fiat currency.&lt;/p&gt;</description></item></channel></rss>
