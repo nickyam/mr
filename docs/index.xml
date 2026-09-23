@@ -1,92 +1,593 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mr.Yam</title><link>https://mr.nickyam.com/</link><description>Recent content on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2026 11:19:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Shorts Never Die, the Squeeze Never Stops</title><link>https://mr.nickyam.com/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops.html</link><pubDate>Tue, 22 Sep 2026 11:19:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops.html</guid><description>&lt;p&gt;Overnight, Bitcoin suddenly rallied. A single candle of more than 7% shot straight from the 81k zone to 87k, marking a new high for this rebound that began in late August. The market erupted in celebration. Some pounded their chests over missed opportunities, some scrambled to reposition, some smugly patted themselves on the back.&lt;/p&gt;
-&lt;p&gt;This move was a pure cascade of short liquidations — what is commonly called a short squeeze.&lt;/p&gt;</description></item><item><title>Stocks Going Fully On-Chain: RWA's True Potential</title><link>https://mr.nickyam.com/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential.html</link><pubDate>Mon, 21 Sep 2026 18:06:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential.html</guid><description>&lt;p&gt;A while back, CZ posted a view online that &amp;ldquo;IPOs will move on chain,&amp;rdquo; which sparked a lot of discussion at the time.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mr.Yam</title>
+    <link>http://localhost:56012/</link>
+    <description>Recent content on Mr.Yam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2026 11:19:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:56012/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shorts Never Die, the Squeeze Never Stops</title>
+      <link>http://localhost:56012/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops.html</link>
+      <pubDate>Tue, 22 Sep 2026 11:19:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops.html</guid>
+      <description>&lt;p&gt;Overnight, Bitcoin suddenly rallied. A single candle of more than 7% shot straight from the 81k zone to 87k, marking a new high for this rebound that began in late August. The market erupted in celebration. Some pounded their chests over missed opportunities, some scrambled to reposition, some smugly patted themselves on the back.&lt;/p&gt;
+&lt;p&gt;This move was a pure cascade of short liquidations — what is commonly called a short squeeze.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Stocks Going Fully On-Chain: RWA&#39;s True Potential</title>
+      <link>http://localhost:56012/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential.html</link>
+      <pubDate>Mon, 21 Sep 2026 18:06:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential.html</guid>
+      <description>&lt;p&gt;A while back, CZ posted a view online that &amp;ldquo;IPOs will move on chain,&amp;rdquo; which sparked a lot of discussion at the time.&lt;/p&gt;
 &lt;p&gt;I saw that view too, but it didn&amp;rsquo;t strike me as particularly profound.&lt;/p&gt;
 &lt;p&gt;Looking back now, my initial reaction was simply that such a view amounted to this:&lt;/p&gt;
-&lt;p&gt;In the future, a stock&amp;rsquo;s IPO, besides happening on traditional centralized exchanges, might also place a portion on the blockchain. That is essentially no different from today&amp;rsquo;s tokenized stock trading — it still maps some off-chain business onto the chain, letting the business run both off-chain and on-chain.&lt;/p&gt;</description></item><item><title>Why the Midpoint of Your Life Is 18, Not 40</title><link>https://mr.nickyam.com/World/Why-the-Midpoint-of-Life-Is-18-Not-40.html</link><pubDate>Wed, 16 Sep 2026 22:42:00 +0800</pubDate><guid>https://mr.nickyam.com/World/Why-the-Midpoint-of-Life-Is-18-Not-40.html</guid><description>&lt;p&gt;You have probably had that moment: scrolling through old photos, you suddenly realize that being 18 was more than a decade ago. The cicadas of your college-entrance-exam summer still seem to buzz in your ears, yet the calendar tells you plainly that you have traveled very, very far.&lt;/p&gt;
-&lt;p&gt;As children, summers stretched on without end — a single piece of candy, a breeze, could spend an entire afternoon. Now the four seasons feel fast-forwarded: the resolutions you made at New Year&amp;rsquo;s barely get started before the year is already over.&lt;/p&gt;</description></item><item><title>Out of Disk Space? Turn Telegram into a Mountable "Unlimited Cloud Drive" with CyDrive</title><link>https://mr.nickyam.com/Tech/CyDrive-Telegram-Cloud-Drive.html</link><pubDate>Sun, 13 Sep 2026 22:45:00 +0800</pubDate><guid>https://mr.nickyam.com/Tech/CyDrive-Telegram-Cloud-Drive.html</guid><description>&lt;p&gt;&lt;img alt="CyDrive — mount Telegram as a cloud drive" loading="lazy" src="https://img.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEBgdJqprhpoU4zpwABmG2HdTfPT7k724EAAroWaxu4lTFVZ-2LQE8oMz0BAAMCAAN5AAM9BA.png"&gt;&lt;/p&gt;
+&lt;p&gt;In the future, a stock&amp;rsquo;s IPO, besides happening on traditional centralized exchanges, might also place a portion on the blockchain. That is essentially no different from today&amp;rsquo;s tokenized stock trading — it still maps some off-chain business onto the chain, letting the business run both off-chain and on-chain.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why the Midpoint of Your Life Is 18, Not 40</title>
+      <link>http://localhost:56012/World/Why-the-Midpoint-of-Life-Is-18-Not-40.html</link>
+      <pubDate>Wed, 16 Sep 2026 22:42:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/Why-the-Midpoint-of-Life-Is-18-Not-40.html</guid>
+      <description>&lt;p&gt;You have probably had that moment: scrolling through old photos, you suddenly realize that being 18 was more than a decade ago. The cicadas of your college-entrance-exam summer still seem to buzz in your ears, yet the calendar tells you plainly that you have traveled very, very far.&lt;/p&gt;
+&lt;p&gt;As children, summers stretched on without end — a single piece of candy, a breeze, could spend an entire afternoon. Now the four seasons feel fast-forwarded: the resolutions you made at New Year&amp;rsquo;s barely get started before the year is already over.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Out of Disk Space? Turn Telegram into a Mountable &#34;Unlimited Cloud Drive&#34; with CyDrive</title>
+      <link>http://localhost:56012/Tech/CyDrive-Telegram-Cloud-Drive.html</link>
+      <pubDate>Sun, 13 Sep 2026 22:45:00 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/CyDrive-Telegram-Cloud-Drive.html</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;CyDrive — mount Telegram as a cloud drive&#34; loading=&#34;lazy&#34; src=&#34;https://img.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEBgdJqprhpoU4zpwABmG2HdTfPT7k724EAAroWaxu4lTFVZ-2LQE8oMz0BAAMCAAN5AAM9BA.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;A while back I was sorting through photos and videos from my camera, and my C: drive immediately turned red. Digging out an external hard drive felt like a chore, and every cloud-storage option either throttles your speed or bills you by the year. Finding a home for tens or hundreds of gigabytes always stings.&lt;/p&gt;
-&lt;p&gt;Then I remembered a fact most people overlook: Telegram itself gives you practically unlimited cloud space, for free. The catch is that it&amp;rsquo;s hidden inside a chat app — you can&amp;rsquo;t just drag files into it the way you would a hard drive.&lt;/p&gt;</description></item><item><title>The Quantum Sword, Honed by AI</title><link>https://mr.nickyam.com/Crypto/The-Quantum-Sword-Honed-by-AI.html</link><pubDate>Fri, 11 Sep 2026 11:48:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The-Quantum-Sword-Honed-by-AI.html</guid><description>&lt;p&gt;Bitcoin continues to pull back toward $76k, with the market waiting for tonight&amp;rsquo;s US CPI print. The threat quantum computing poses to Bitcoin — a sword that has hung overhead for a long time — has seen some fresh movement.&lt;/p&gt;</description></item><item><title>Fortress Guarded, Yet 4,000 BTC Stolen</title><link>https://mr.nickyam.com/Crypto/4000-BTC-Stolen-From-Liquid.html</link><pubDate>Thu, 10 Sep 2026 23:20:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/4000-BTC-Stolen-From-Liquid.html</guid><description>&lt;p&gt;Bitcoin has been pulling back lately, with macro headwinds pushing it down to around $77k. A few days ago, something quietly unsettling happened on Liquid — Bitcoin&amp;rsquo;s federated sidechain.&lt;/p&gt;</description></item><item><title>The Birth of the On-Chain Chip</title><link>https://mr.nickyam.com/Crypto/The-Birth-of-the-On-Chain-Chip.html</link><pubDate>Tue, 18 Aug 2026 19:31:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The-Birth-of-the-On-Chain-Chip.html</guid><description>&lt;p&gt;A fascinating and wildly imaginative project has appeared recently: tapeout.net.&lt;/p&gt;
+&lt;p&gt;Then I remembered a fact most people overlook: Telegram itself gives you practically unlimited cloud space, for free. The catch is that it&amp;rsquo;s hidden inside a chat app — you can&amp;rsquo;t just drag files into it the way you would a hard drive.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Quantum Sword, Honed by AI</title>
+      <link>http://localhost:56012/Crypto/The-Quantum-Sword-Honed-by-AI.html</link>
+      <pubDate>Fri, 11 Sep 2026 11:48:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/The-Quantum-Sword-Honed-by-AI.html</guid>
+      <description>&lt;p&gt;Bitcoin continues to pull back toward $76k, with the market waiting for tonight&amp;rsquo;s US CPI print. The threat quantum computing poses to Bitcoin — a sword that has hung overhead for a long time — has seen some fresh movement.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fortress Guarded, Yet 4,000 BTC Stolen</title>
+      <link>http://localhost:56012/Crypto/4000-BTC-Stolen-From-Liquid.html</link>
+      <pubDate>Thu, 10 Sep 2026 23:20:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/4000-BTC-Stolen-From-Liquid.html</guid>
+      <description>&lt;p&gt;Bitcoin has been pulling back lately, with macro headwinds pushing it down to around $77k. A few days ago, something quietly unsettling happened on Liquid — Bitcoin&amp;rsquo;s federated sidechain.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Birth of the On-Chain Chip</title>
+      <link>http://localhost:56012/Crypto/The-Birth-of-the-On-Chain-Chip.html</link>
+      <pubDate>Tue, 18 Aug 2026 19:31:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/The-Birth-of-the-On-Chain-Chip.html</guid>
+      <description>&lt;p&gt;A fascinating and wildly imaginative project has appeared recently: tapeout.net.&lt;/p&gt;
 &lt;p&gt;Put simply, it lets users create their own integrated circuit on-chain.&lt;/p&gt;
-&lt;h2 id="from-transistors-to-cpus"&gt;From Transistors to CPUs&lt;/h2&gt;
+&lt;h2 id=&#34;from-transistors-to-cpus&#34;&gt;From Transistors to CPUs&lt;/h2&gt;
 &lt;p&gt;Before getting into the project, some background on logic circuits is in order.&lt;/p&gt;
 &lt;p&gt;Strip the casing off any chip product we use today and keep decomposing it, layer by layer, and you will find that it is ultimately built from one most basic component.&lt;/p&gt;
-&lt;p&gt;That component is the transistor.&lt;/p&gt;</description></item><item><title>DeepSeek's Harness Made Me Uninstall Codex</title><link>https://mr.nickyam.com/Tech/DeepSeek-Harness-Made-Me-Uninstall-Codex.html</link><pubDate>Mon, 17 Aug 2026 18:09:00 +0800</pubDate><guid>https://mr.nickyam.com/Tech/DeepSeek-Harness-Made-Me-Uninstall-Codex.html</guid><description>&lt;p&gt;Here is what happened.&lt;/p&gt;
+&lt;p&gt;That component is the transistor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek&#39;s Harness Made Me Uninstall Codex</title>
+      <link>http://localhost:56012/Tech/DeepSeek-Harness-Made-Me-Uninstall-Codex.html</link>
+      <pubDate>Mon, 17 Aug 2026 18:09:00 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/DeepSeek-Harness-Made-Me-Uninstall-Codex.html</guid>
+      <description>&lt;p&gt;Here is what happened.&lt;/p&gt;
 &lt;p&gt;On the evening of August 14, I was scrolling on my phone when I saw DeepSeek had shipped something new called Harness. Normally I am immune to &amp;ldquo;framework&amp;rdquo; releases — everybody ships a framework these days, each name more intimidating than the last. But I clicked in, and one slogan jumped out at me:&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://img.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEBfbVqpm5eHQHnkGYplRlpq1MWI5qxrgACVRRrG7iVMVXlH9vsFGWeYAEAAwIAA3kAAz0E.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEBfbVqpm5eHQHnkGYplRlpq1MWI5qxrgACVRRrG7iVMVXlH9vsFGWeYAEAAwIAA3kAAz0E.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Everything is a Plugin.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;I thought about it for a second. There is something to that phrase. I installed it that same night.&lt;/p&gt;</description></item><item><title>Frankly, DeepSeek Harness Is Not an Agent Product at All</title><link>https://mr.nickyam.com/Tech/DeepSeek-Harness-Is-Not-an-Agent-Product.html</link><pubDate>Wed, 12 Aug 2026 09:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Tech/DeepSeek-Harness-Is-Not-an-Agent-Product.html</guid><description>&lt;p&gt;Last week, right after the official release of DeepSeek V4 Pro, they threw out something else called DeepSeek Harness. Its GitHub stars shot to 37,000 in three days. My first reaction was: DeepSeek is finally shipping its own Agent? I installed the developer preview immediately.&lt;/p&gt;
-&lt;p&gt;Once it was installed, I was lost — this was nothing like what I imagined an Agent to be. There is no chat box where you say &amp;ldquo;write me a crawler.&amp;rdquo; Instead there is an empty workspace and a long list of plugins I could not make sense of. For a moment I suspected I had installed the wrong thing.&lt;/p&gt;</description></item><item><title>BIP-110 Fork Fails: Who Has the Right to Change Bitcoin?</title><link>https://mr.nickyam.com/Crypto/BIP-110-Fork-Fails-Who-Can-Change-Bitcoin.html</link><pubDate>Tue, 11 Aug 2026 09:00:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/BIP-110-Fork-Fails-Who-Can-Change-Bitcoin.html</guid><description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I thought about it for a second. There is something to that phrase. I installed it that same night.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Frankly, DeepSeek Harness Is Not an Agent Product at All</title>
+      <link>http://localhost:56012/Tech/DeepSeek-Harness-Is-Not-an-Agent-Product.html</link>
+      <pubDate>Wed, 12 Aug 2026 09:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/DeepSeek-Harness-Is-Not-an-Agent-Product.html</guid>
+      <description>&lt;p&gt;Last week, right after the official release of DeepSeek V4 Pro, they threw out something else called DeepSeek Harness. Its GitHub stars shot to 37,000 in three days. My first reaction was: DeepSeek is finally shipping its own Agent? I installed the developer preview immediately.&lt;/p&gt;
+&lt;p&gt;Once it was installed, I was lost — this was nothing like what I imagined an Agent to be. There is no chat box where you say &amp;ldquo;write me a crawler.&amp;rdquo; Instead there is an empty workspace and a long list of plugins I could not make sense of. For a moment I suspected I had installed the wrong thing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BIP-110 Fork Fails: Who Has the Right to Change Bitcoin?</title>
+      <link>http://localhost:56012/Crypto/BIP-110-Fork-Fails-Who-Can-Change-Bitcoin.html</link>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/BIP-110-Fork-Fails-Who-Can-Change-Bitcoin.html</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;BIP-110 sought to raise the cost of writing large volumes of contiguous data — Ordinals inscriptions and the like — through a temporary consensus restriction.&lt;/li&gt;
 &lt;li&gt;In the voluntary early-lock-in phase, the proposal drew signals from only 51 blocks — 2.53% support — far below the 55% threshold.&lt;/li&gt;
 &lt;li&gt;Once the mandatory signaling period began, the minority chain formed by supporters produced just two blocks before stalling; BIP-110 is effectively dead as a network-wide consensus upgrade.&lt;/li&gt;
 &lt;li&gt;The debate over on-chain data, protocol neutrality, and development governance will continue; and because the forked chain lacks replay protection, ordinary holders should not rush to move or trade related assets.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;In the early hours of August 9, Beijing time, Bitcoin reached block height 961,632 and BIP-110 entered its mandatory signaling period. Nodes running BIP-110 rules began rejecting blocks without version bit 4 set, splitting off from the mainnet. Thereafter, the BIP-110 branch produced only two blocks before stalling, while the mainnet kept producing normally. Over the preceding difficulty-adjustment period, only 51 blocks had signaled support — 2.53% — far below the proposal&amp;rsquo;s 55% voluntary early-lock-in threshold. BIP-110 thus never won broad miner support, and ultimately formed a minority chain with negligible hashpower.&lt;/p&gt;</description></item><item><title>Self-Custody Faith: Collapse, or Rebirth from the Ashes?</title><link>https://mr.nickyam.com/Crypto/Self-Custody-Faith-Collapse-or-Rebirth.html</link><pubDate>Sat, 08 Aug 2026 18:35:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Self-Custody-Faith-Collapse-or-Rebirth.html</guid><description>&lt;p&gt;BTC has been climbing and now sits near $65k. The weekend&amp;rsquo;s market was calm. But this weekend in the Bitcoin community was destined to be anything but peaceful.&lt;/p&gt;</description></item><item><title>FBI Agent Memorized the Seed Phrase, Stole $1 Million in Crypto</title><link>https://mr.nickyam.com/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto.html</link><pubDate>Thu, 06 Aug 2026 12:27:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto.html</guid><description>&lt;p&gt;A recently unsealed criminal complaint from the U.S. District Court for the Eastern District of Virginia has once again ripped the fig leaf off American law enforcement.&lt;/p&gt;
-&lt;p&gt;Patrick Steven Yaroch, a former FBI supervisory special agent, is accused of using his position to siphon nearly $1 million in crypto from cryptocurrency accounts linked to a &amp;ldquo;hostile nation&amp;rdquo; (reportedly Russia) that the FBI was monitoring — moving the funds into his own wallet, and even parking part of it in DeFi protocols to earn yield[1].&lt;/p&gt;</description></item><item><title>South Korea Bans 29 Overseas Crypto Exchanges — MEXC, OKX, KuCoin and Others Delisted</title><link>https://mr.nickyam.com/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges.html</link><pubDate>Wed, 05 Aug 2026 10:36:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges.html</guid><description>&lt;p&gt;Overnight, the apps of 29 overseas crypto exchanges vanished from Google Play in South Korea. This was no technical glitch — it was a surgical strike by Korean regulators.&lt;/p&gt;
+&lt;p&gt;In the early hours of August 9, Beijing time, Bitcoin reached block height 961,632 and BIP-110 entered its mandatory signaling period. Nodes running BIP-110 rules began rejecting blocks without version bit 4 set, splitting off from the mainnet. Thereafter, the BIP-110 branch produced only two blocks before stalling, while the mainnet kept producing normally. Over the preceding difficulty-adjustment period, only 51 blocks had signaled support — 2.53% — far below the proposal&amp;rsquo;s 55% voluntary early-lock-in threshold. BIP-110 thus never won broad miner support, and ultimately formed a minority chain with negligible hashpower.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Self-Custody Faith: Collapse, or Rebirth from the Ashes?</title>
+      <link>http://localhost:56012/Crypto/Self-Custody-Faith-Collapse-or-Rebirth.html</link>
+      <pubDate>Sat, 08 Aug 2026 18:35:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Self-Custody-Faith-Collapse-or-Rebirth.html</guid>
+      <description>&lt;p&gt;BTC has been climbing and now sits near $65k. The weekend&amp;rsquo;s market was calm. But this weekend in the Bitcoin community was destined to be anything but peaceful.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FBI Agent Memorized the Seed Phrase, Stole $1 Million in Crypto</title>
+      <link>http://localhost:56012/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto.html</link>
+      <pubDate>Thu, 06 Aug 2026 12:27:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto.html</guid>
+      <description>&lt;p&gt;A recently unsealed criminal complaint from the U.S. District Court for the Eastern District of Virginia has once again ripped the fig leaf off American law enforcement.&lt;/p&gt;
+&lt;p&gt;Patrick Steven Yaroch, a former FBI supervisory special agent, is accused of using his position to siphon nearly $1 million in crypto from cryptocurrency accounts linked to a &amp;ldquo;hostile nation&amp;rdquo; (reportedly Russia) that the FBI was monitoring — moving the funds into his own wallet, and even parking part of it in DeFi protocols to earn yield[1].&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>South Korea Bans 29 Overseas Crypto Exchanges — MEXC, OKX, KuCoin and Others Delisted</title>
+      <link>http://localhost:56012/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges.html</link>
+      <pubDate>Wed, 05 Aug 2026 10:36:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges.html</guid>
+      <description>&lt;p&gt;Overnight, the apps of 29 overseas crypto exchanges vanished from Google Play in South Korea. This was no technical glitch — it was a surgical strike by Korean regulators.&lt;/p&gt;
 &lt;p&gt;On July 24, 2026, South Korea&amp;rsquo;s crypto community erupted. Search Google Play for OKX, Bybit, MEXC, KuCoin, Gemini, or BitMEX — all gone.&lt;/p&gt;
-&lt;p&gt;The trigger was a long-gestating action by the Korea Financial Intelligence Unit (KoFIU): &lt;strong&gt;every overseas exchange app that has not completed Virtual Asset Service Provider (VASP) registration with the KoFIU is to be removed from Google Play&lt;/strong&gt;[1].&lt;/p&gt;</description></item><item><title>Wish Bitcoin a happy 15th birthday !</title><link>https://mr.nickyam.com/Crypto/wish-bitcoin-a-happy-birthday.html</link><pubDate>Wed, 03 Jan 2024 10:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/wish-bitcoin-a-happy-birthday.html</guid><description>&lt;!-- more --&gt;
+&lt;p&gt;The trigger was a long-gestating action by the Korea Financial Intelligence Unit (KoFIU): &lt;strong&gt;every overseas exchange app that has not completed Virtual Asset Service Provider (VASP) registration with the KoFIU is to be removed from Google Play&lt;/strong&gt;[1].&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wish Bitcoin a happy 15th birthday !</title>
+      <link>http://localhost:56012/Crypto/wish-bitcoin-a-happy-birthday.html</link>
+      <pubDate>Wed, 03 Jan 2024 10:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/wish-bitcoin-a-happy-birthday.html</guid>
+      <description>&lt;!-- more --&gt;
 &lt;p&gt;Today is January 3, 2024, the 15th birthday of Bitcoin. Let&amp;rsquo;s first wish Bitcoin a happy 15th birthday!&lt;/p&gt;
 &lt;p&gt;The conventional narrative in the media goes like this: 15 years ago, on January 3, 2009, Satoshi Nakamoto launched Bitcoin on a server in Helsinki, Finland.&lt;/p&gt;
-&lt;p&gt;However, according to &lt;a href="https://mr.nickyam.com"&gt;NickYam&lt;/a&gt;&amp;rsquo;s investigation, the actual truth is more likely that Satoshi Nakamoto received The Times newspaper from January 3 to 9 of that year, conducted a trial run for a few days, and officially launched Bitcoin on the 9th.&lt;/p&gt;</description></item><item><title>The Origin of Demand, with a Discussion on Why Bitcoin Holds Value</title><link>https://mr.nickyam.com/Crypto/the-origin-of-demand-why-bitcoin-holds-value.html</link><pubDate>Mon, 27 Nov 2023 20:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/the-origin-of-demand-why-bitcoin-holds-value.html</guid><description>&lt;!-- more --&gt;
-&lt;h1 id="introduction"&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;However, according to &lt;a href=&#34;https://mr.nickyam.com&#34;&gt;NickYam&lt;/a&gt;&amp;rsquo;s investigation, the actual truth is more likely that Satoshi Nakamoto received The Times newspaper from January 3 to 9 of that year, conducted a trial run for a few days, and officially launched Bitcoin on the 9th.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Origin of Demand, with a Discussion on Why Bitcoin Holds Value</title>
+      <link>http://localhost:56012/Crypto/the-origin-of-demand-why-bitcoin-holds-value.html</link>
+      <pubDate>Mon, 27 Nov 2023 20:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/the-origin-of-demand-why-bitcoin-holds-value.html</guid>
+      <description>&lt;!-- more --&gt;
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;Whenever the topic of the value of BTC (Bitcoin) is discussed, people often find themselves in endless debates. Even with the use of the three treasures - left-hand Austrian, right-hand Marxian - and reciting Keynes, it seems that the problem remains unresolved.&lt;/p&gt;
 &lt;p&gt;Some say BTC is worthless garbage.&lt;/p&gt;
 &lt;p&gt;Some say BTC has no intrinsic value but has a price.&lt;/p&gt;
-&lt;p&gt;Some say BTC has value because it is scarce.&lt;/p&gt;</description></item><item><title>Buffett Outperforms Bitcoin</title><link>https://mr.nickyam.com/Crypto/Buffett_Outperforms_Bitcoin.html</link><pubDate>Fri, 27 Oct 2023 20:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Buffett_Outperforms_Bitcoin.html</guid><description>&lt;!-- more --&gt;
+&lt;p&gt;Some say BTC has value because it is scarce.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Buffett Outperforms Bitcoin</title>
+      <link>http://localhost:56012/Crypto/Buffett_Outperforms_Bitcoin.html</link>
+      <pubDate>Fri, 27 Oct 2023 20:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Buffett_Outperforms_Bitcoin.html</guid>
+      <description>&lt;!-- more --&gt;
 &lt;p&gt;The stock guru Warren Buffett has always been known for his staunch anti-cryptocurrency stance.&lt;/p&gt;
 &lt;p&gt;In 2019, the Oracle of Omaha said on a television interview, &amp;ldquo;All cryptocurrencies will eventually come to a bad ending.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;In 2021, Warren Buffett&amp;rsquo;s partner, Charlie Munger, publicly criticized Bitcoin during a shareholders&amp;rsquo; meeting, calling it &amp;ldquo;disgusting and contrary to the interests of civilization.&amp;rdquo; Warren Buffett himself has also publicly referred to Bitcoin as &amp;ldquo;rat poison&amp;rdquo; in the past.&lt;/p&gt;</description></item><item><title>Reasons for BTC Surpassing $100,000 Before the 2024 Halving</title><link>https://mr.nickyam.com/Crypto/Reasons_for_BTC_Surpassing_100000_Before_the_2024_Halving.html</link><pubDate>Thu, 17 Aug 2023 20:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Reasons_for_BTC_Surpassing_100000_Before_the_2024_Halving.html</guid><description>&lt;p&gt;Yesterday, Blockstream&amp;rsquo;s founder and renowned cryptographer Adam Back, in an interview with Bloomberg, mentioned that Bitcoin could potentially surpass $100,000 before the halving event in the first half of 2024.&lt;sup id="fnref:1"&gt;&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref"&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://img.nickyam.com/file/81322d4e61303610296bb.png"&gt;&lt;/p&gt;
-&lt;p&gt;Surpassing the previous high before the halving event is an unprecedented occurrence in the Bitcoin&amp;rsquo;s development history of the past decade.&lt;/p&gt;</description></item><item><title>Realized Price Distribution of BTC Coins</title><link>https://mr.nickyam.com/Crypto/Realized_Price_Distribution_of_BTC_Coins.html</link><pubDate>Wed, 16 Aug 2023 18:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Realized_Price_Distribution_of_BTC_Coins.html</guid><description>&lt;p&gt;Friends familiar with the underlying mechanisms of Bitcoin are aware that on the Bitcoin blockchain ledger, it&amp;rsquo;s not individual bitcoins that are tracked, but rather individual Unspent Transaction Outputs (UTXOs). This technical term is referred to as &amp;ldquo;Unspent Transaction Output.&amp;rdquo; Some refer to these as &amp;ldquo;Bitcoin coins&amp;rdquo; or BTC coins.&lt;/p&gt;
+&lt;p&gt;In 2021, Warren Buffett&amp;rsquo;s partner, Charlie Munger, publicly criticized Bitcoin during a shareholders&amp;rsquo; meeting, calling it &amp;ldquo;disgusting and contrary to the interests of civilization.&amp;rdquo; Warren Buffett himself has also publicly referred to Bitcoin as &amp;ldquo;rat poison&amp;rdquo; in the past.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reasons for BTC Surpassing $100,000 Before the 2024 Halving</title>
+      <link>http://localhost:56012/Crypto/Reasons_for_BTC_Surpassing_100000_Before_the_2024_Halving.html</link>
+      <pubDate>Thu, 17 Aug 2023 20:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Reasons_for_BTC_Surpassing_100000_Before_the_2024_Halving.html</guid>
+      <description>&lt;p&gt;Yesterday, Blockstream&amp;rsquo;s founder and renowned cryptographer Adam Back, in an interview with Bloomberg, mentioned that Bitcoin could potentially surpass $100,000 before the halving event in the first half of 2024.&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.nickyam.com/file/81322d4e61303610296bb.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Surpassing the previous high before the halving event is an unprecedented occurrence in the Bitcoin&amp;rsquo;s development history of the past decade.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Realized Price Distribution of BTC Coins</title>
+      <link>http://localhost:56012/Crypto/Realized_Price_Distribution_of_BTC_Coins.html</link>
+      <pubDate>Wed, 16 Aug 2023 18:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Realized_Price_Distribution_of_BTC_Coins.html</guid>
+      <description>&lt;p&gt;Friends familiar with the underlying mechanisms of Bitcoin are aware that on the Bitcoin blockchain ledger, it&amp;rsquo;s not individual bitcoins that are tracked, but rather individual Unspent Transaction Outputs (UTXOs). This technical term is referred to as &amp;ldquo;Unspent Transaction Output.&amp;rdquo; Some refer to these as &amp;ldquo;Bitcoin coins&amp;rdquo; or BTC coins.&lt;/p&gt;
 &lt;p&gt;Currently, there are approximately 130 million BTC coins recorded on the Bitcoin ledger.&lt;/p&gt;
-&lt;p&gt;An intriguing question is: How is the purchase price of these coins distributed? A research study from Glassnode provides some insights.&lt;/p&gt;</description></item><item><title>Supply creates demand</title><link>https://mr.nickyam.com/Crypto/Supply-creates-demand.html</link><pubDate>Sat, 29 Jul 2023 09:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Supply-creates-demand.html</guid><description>&lt;p&gt;Overnight, Bitcoin continues to fluctuate above $29,000. The volatility index (30-day implied volatility of option prices) has further decreased, indicating exhaustion from both the bullish and bearish sides.&lt;/p&gt;
-&lt;p&gt;According to reports, Bitcoin mining equipment manufacturers are shifting their focus from the saturated U.S. market to the mining market in Russia. Luxor Technologies, a mining infrastructure service provider, stated that more machines are flowing into Russia than any other place in the world.&lt;/p&gt;</description></item><item><title>The Fed’s Swan Song</title><link>https://mr.nickyam.com/Crypto/The-Feds-Swan-Song.html</link><pubDate>Wed, 26 Jul 2023 11:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The-Feds-Swan-Song.html</guid><description>&lt;p&gt;Overnight, the Federal Reserve&amp;rsquo;s July interest rate meeting released its outcome. Bitcoin remained unfazed and continued its path of recovery since July 25, experiencing a slight rebound to the $29.5k level.&lt;/p&gt;</description></item><item><title>Bitcoin Minting Tax</title><link>https://mr.nickyam.com/Crypto/Bitcoin-Minting-Tax.html</link><pubDate>Wed, 26 Jul 2023 09:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Bitcoin-Minting-Tax.html</guid><description>&lt;p&gt;Overnight, Bitcoin continues to hover above $29,000. Most likely, the Federal Reserve&amp;rsquo;s July interest rate meeting has commenced. Tomorrow, we should know the outcome, and the market is poised to make a decision.&lt;/p&gt;</description></item><item><title>The Scarcer Ability , Asking the Right Questions</title><link>https://mr.nickyam.com/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions.html</link><pubDate>Wed, 19 Jul 2023 18:12:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions.html</guid><description>&lt;p&gt;Overnight, Bitcoin experienced slight fluctuations around $30,000, while UNI steadily rose and is now close to $6.&lt;/p&gt;
-&lt;p&gt;During the Sunday private board meeting, a member asked about the comparison between Uniswap (UNI) and Arbitrum (ARB). Both projects are undoubtedly of high quality, otherwise, the comparative analysis would be meaningless.&lt;/p&gt;</description></item><item><title>Don't Do Cryptocurrency Investments Without 10 Million Dollars</title><link>https://mr.nickyam.com/Crypto/Dont_Do_Cryptocurrency_Investments_Without_10_Million_Dollars.html</link><pubDate>Tue, 18 Jul 2023 19:02:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Dont_Do_Cryptocurrency_Investments_Without_10_Million_Dollars.html</guid><description>&lt;p&gt;Overnight, Bitcoin slightly dipped below $30,000 but quickly rebounded, currently sliding along the $30,000 mark.&lt;/p&gt;
-&lt;p&gt;A discussion about the entry barrier for cryptocurrency investment has sparked a debate in the overseas crypto community. It began when a newcomer asked a prominent figure how someone with just a few thousand dollars could start investing in crypto. Should they invest in Bitcoin, Ethereum, meme coins, or altcoins that outperform Bitcoin? Is it reliable?&lt;/p&gt;</description></item><item><title>Earning Ability is the Best Alpha</title><link>https://mr.nickyam.com/Crypto/Earning_Ability_is_the_Best_Alpha.html</link><pubDate>Mon, 17 Jul 2023 09:12:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Earning_Ability_is_the_Best_Alpha.html</guid><description>&lt;p&gt;Overnight, Bitcoin remains above $30,000, maintaining its consolidation for the 25th day since June 23rd.&lt;/p&gt;
-&lt;p&gt;What is the key to successful investment? Many have witnessed people abandoning beta (average returns) in pursuit of alpha (excess returns), selling Bitcoin for meme coins, only to end up not outperforming the market and suffering significant losses. While some courageous individuals may regroup and start again, others might become disheartened and exit the market.&lt;/p&gt;</description></item><item><title>Bitcoin during the bear market</title><link>https://mr.nickyam.com/Crypto/Bitcoin_during_the_bear_market.html</link><pubDate>Sun, 16 Jul 2023 18:12:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Bitcoin_during_the_bear_market.html</guid><description>&lt;p&gt;Overnight, Bitcoin continues to consolidate above the 30k level. Looking at the weekly chart, the previous day&amp;rsquo;s court ruling regarding XRP, which obtained a 2/3 non-security designation, turned out to be a mere &amp;ldquo;show of empty positivity.&amp;rdquo; It further depleted the market&amp;rsquo;s strength and brought everything back to square one, continuing the trend of slight decline. Short-term speculators have been repeatedly washed out, while long-term hodlers are unable to sell. Market liquidity is drying up, yet there is a lack of substantial catalysts for a significant change, resulting in the current awkward situation.&lt;/p&gt;</description></item><item><title>What is value?</title><link>https://mr.nickyam.com/Crypto/What_is_value.html</link><pubDate>Wed, 12 Jul 2023 10:13:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/What_is_value.html</guid><description>&lt;p&gt;Overnight, BTC continues to consolidate above 30k. It&amp;rsquo;s a garbage time for traders but a golden time for hodlers. The longer it consolidates, the more fear it instills in many people. The more afraid they become, the less inclined they are to accumulate more or even consider reducing their holdings for safety. There is a superstitious saying among technical analysis enthusiasts, &amp;ldquo;Consolidation leads to a drop.&amp;rdquo; Jiao Chain doesn&amp;rsquo;t understand this saying. Drop? In which direction will it drop? If that&amp;rsquo;s the case, wouldn&amp;rsquo;t a 1/BTC candlestick chart indicate a rise after prolonged consolidation? It shows that technical analysis, if not entirely useless, is at least largely ineffective.&lt;/p&gt;</description></item><item><title>What kind of mistakes should never be made in the cryptocurrency market?</title><link>https://mr.nickyam.com/Crypto/What_kind_of_mistakes_should_never_be_made_in_the_cryptocurrency_market.html</link><pubDate>Mon, 10 Jul 2023 12:12:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/What_kind_of_mistakes_should_never_be_made_in_the_cryptocurrency_market.html</guid><description>&lt;p&gt;If you followed the investment advice of the BlackRock CEO and went long on Bitcoin yesterday, you would have probably learned your lesson from the market today. Today, let&amp;rsquo;s take a look at how Levermore, more than a hundred years ago, fell victim to trusting the views of the big shots and ended up losing money.&lt;/p&gt;</description></item><item><title>How much BTC should you hoard?</title><link>https://mr.nickyam.com/Crypto/How-much-BTC-should-you-hoard.html</link><pubDate>Fri, 07 Jul 2023 21:53:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/How-much-BTC-should-you-hoard.html</guid><description>&lt;p&gt;Often, friends struggle to determine the target amount when formulating a long-term investment plan. Some friends, with lower incomes, find it difficult to imagine owning 1 BTC, which is valued at around $30,000 or over 200,000 RMB. On the other hand, friends with more wealth feel that buying a few BTC doesn&amp;rsquo;t seem satisfying enough.&lt;/p&gt;</description></item><item><title>Paradigm Betrays the Revolution</title><link>https://mr.nickyam.com/Crypto/Paradigm-Betrays-the-Revolution.html</link><pubDate>Fri, 07 Jul 2023 21:53:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Paradigm-Betrays-the-Revolution.html</guid><description>&lt;p&gt;The English word &amp;ldquo;Paradigm&amp;rdquo; means &amp;ldquo;a typical example or pattern.&amp;rdquo; The most common usage is in the phrase &amp;ldquo;Paradigm Shift&amp;rdquo; , which refers to a fundamental change in the basic concepts and practices of a scientific discipline. It is a concept in the philosophy of science introduced by American physicist and philosopher Thomas Kuhn and incorporated into the general lexicon. While Kuhn initially limited the use of this term to the natural sciences, the concept of paradigm shift is also used in many non-scientific contexts to describe profound changes in fundamental models or perceptions of events.&lt;/p&gt;</description></item><item><title>Recommended Free and Secure Email Services without Phone Registration</title><link>https://mr.nickyam.com/Tech/Recommended-Free-and-Secure-Email-Services-without-Phone-Registration.html</link><pubDate>Fri, 07 Jul 2023 21:53:32 +0800</pubDate><guid>https://mr.nickyam.com/Tech/Recommended-Free-and-Secure-Email-Services-without-Phone-Registration.html</guid><description>&lt;p&gt;Using a free anonymous email service can be advantageous for several reasons.&lt;/p&gt;
-&lt;p&gt;Firstly, it helps to protect your privacy and maintain confidentiality. By concealing your identity and personal information, you can communicate without revealing sensitive details about yourself. This can be particularly useful when engaging in online forums, signing up for services, or interacting with unfamiliar individuals or websites.&lt;/p&gt;</description></item><item><title>BlackRock CEO Praises Bitcoin</title><link>https://mr.nickyam.com/Crypto/BlackRock_CEO_Praises_Bitcoin.html</link><pubDate>Fri, 07 Jul 2023 20:13:10 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/BlackRock_CEO_Praises_Bitcoin.html</guid><description>&lt;p&gt;After a sudden surge to 31k, Bitcoin quickly retreated overnight, briefly dropping below 30k and currently maintaining consolidation near that level. This scene reminded Jiao Chain of our defensive counterattacks against Vietnam in the 1970s and 1980s. We would strike with full force and swiftly retreat, engaging in a decade-long border war to exhaust and defeat the enemy. This approach avoided getting deeply entrenched in a war quagmire while effectively undermining the enemy&amp;rsquo;s arrogance. By strategically retreating, occupying advantageous positions, and engaging in attritional warfare, we achieved our strategic objectives at minimal cost.&lt;/p&gt;</description></item><item><title>The Essential Significance of Hoarding Bitcoin</title><link>https://mr.nickyam.com/Crypto/The-Essential-Significance-of-Hoarding-Bitcoin.html</link><pubDate>Thu, 06 Jul 2023 19:51:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The-Essential-Significance-of-Hoarding-Bitcoin.html</guid><description>&lt;p&gt;The most primitive storage need of humans, similar to squirrels storing pine cones for winter, is an instinctual response to future problems. This instinctual behavior does not require humans to possess such advanced thinking systems in their brains. Squirrels and many other animals can also anticipate the future.&lt;/p&gt;</description></item><item><title>Nobody cares about your blog</title><link>https://mr.nickyam.com/World/Nobody_cares_about_your_blog.html</link><pubDate>Sat, 01 Jul 2023 19:01:00 +0800</pubDate><guid>https://mr.nickyam.com/World/Nobody_cares_about_your_blog.html</guid><description>&lt;p&gt;I started writing on my blog some years ago, and since then I’ve had a lot of reasons to stop writing. Here’s a list of why nobody cares about your blog:&lt;/p&gt;</description></item><item><title>The Security Debate and Collision between Proof of Stake (PoS) and Proof of Work (PoW) since Ethereum's Transition</title><link>https://mr.nickyam.com/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition.html</link><pubDate>Thu, 08 Jun 2023 16:16:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition.html</guid><description>&lt;p&gt;Ever since Ethereum transitioned from PoW to PoS, the discussion and collision regarding the security of PoS and PoW have become a focal point. As early as November 6, 2020, Vitalik Buterin wrote a blog post titled &amp;ldquo;Why Proof of Stake&amp;rdquo; , where he conducted some calculations. His calculations indicated that, given equal security costs, PoS is safer than PoW.&lt;/p&gt;</description></item><item><title>Apple Unveils the Most Powerful Device for Metaverse as Web3 Experts Transition to AI</title><link>https://mr.nickyam.com/Tech/Apple-Unveils-the-Most-Powerful-Device-for-Metaverse-as-Web3-Experts-Transition-to-AI.html</link><pubDate>Wed, 07 Jun 2023 20:50:12 +0800</pubDate><guid>https://mr.nickyam.com/Tech/Apple-Unveils-the-Most-Powerful-Device-for-Metaverse-as-Web3-Experts-Transition-to-AI.html</guid><description>&lt;p&gt;The first few months of 2023 marked a turning point for the metaverse. Just as web3 experts were transitioning to AI, Apple unveiled its groundbreaking device, the Vision Pro, for the metaverse. While renowned figures like Bill Gates had previously advocated for Microsoft to go all-in on the metaverse but then shifted their focus to AI, Mark Zuckerberg, who renamed his company Meta to align with the metaverse, admitted strategic missteps and announced layoffs for a transition. Influential voices and experts who were once avid supporters of Web3 and the metaverse quickly rebranded themselves as AI enthusiasts, proclaiming AI as the future to attract followers.&lt;/p&gt;</description></item><item><title>Contrasting Web3 Policies , Hong Kong's Virtual Asset Focus and Beijing's Internet 3.0 Emphasis</title><link>https://mr.nickyam.com/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing.html</link><pubDate>Tue, 06 Jun 2023 20:11:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing.html</guid><description>&lt;p&gt;Starting from June 1st, the guidelines for virtual asset trading platform operators and the anti-money laundering guidelines (referred to as the &amp;ldquo;Guidelines&amp;rdquo;) issued by the Hong Kong Securities and Futures Commission (SFC) have officially come into effect. The SFC has begun accepting applications for licenses from virtual asset trading platform operators and allows retail investors to use licensed virtual asset trading platforms.&lt;/p&gt;</description></item><item><title>What is Web3 Privacy? How is its Current Development?</title><link>https://mr.nickyam.com/Crypto/What-is-Web3-Privacy-How-is-its-Current-Development.html</link><pubDate>Tue, 06 Jun 2023 12:12:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/What-is-Web3-Privacy-How-is-its-Current-Development.html</guid><description>&lt;p&gt;Generally speaking, internet privacy primarily concerns the invisibility of users&amp;rsquo; data information, such as their identities, behaviors, and activities. In the era of the internet, all our information and actions are presented in a digital form. However, once any system storing digital information is connected to the network, it becomes a potential target for hackers. This is especially critical when it comes to sensitive information related to finance and personal health. The privacy and security of data become even more important.&lt;/p&gt;</description></item><item><title>Musk has arrived</title><link>https://mr.nickyam.com/Tech/Musk-has-arrived.html</link><pubDate>Fri, 02 Jun 2023 20:20:00 +0800</pubDate><guid>https://mr.nickyam.com/Tech/Musk-has-arrived.html</guid><description>&lt;p&gt;Musk has arrived. Not only has he arrived, but he has arrived with great fanfare. And it&amp;rsquo;s not just the arrival that&amp;rsquo;s making headlines; he&amp;rsquo;s also being received with high-profile receptions.&lt;/p&gt;
-&lt;p&gt;Which Musk are we talking about? The one who produces Tesla cars, launches Starlink satellites into orbit, vows to send people to Mars with rockets, acquires Twitter and lays off 70% of its staff, and makes extravagant statements about Dogecoin while later calling it a scam on television.&lt;/p&gt;</description></item><item><title>On the Self-Limitation of Ethereum</title><link>https://mr.nickyam.com/Crypto/On-the-Self-Limitation-of-Ethereum.html</link><pubDate>Tue, 30 May 2023 22:11:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/On-the-Self-Limitation-of-Ethereum.html</guid><description>&lt;p&gt;Recently, the similarities and differences between Bitcoin and Ethereum regarding the issue of price self-limitation have also been discussed. Some further thoughts and analysis are recorded below for readers&amp;rsquo; discussion and criticism.&lt;img loading="lazy" src="https://telegraph-image.pages.dev/file/3b97d5f2b70bfab540ab8.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;The issue of self-limitation is actually somewhat subtle. Ethereum also draws on Bitcoin&amp;rsquo;s method of dynamically adjusting transaction fees (miner fees) in its calculations. For Bitcoin, the miner fee = vBytes (transaction size in bytes) * fee/vBytes (fee rate denominated in BTC); for Ethereum, the gas fee = gas (amount of computational resources consumed by instructions) * gas price (denominated in ETH). Therefore, on the surface, there doesn&amp;rsquo;t seem to be a problem with whether the fee rate or gas price is denominated in BTC, ETH, or USD. From the perspective of supply and demand economics, if the pricing currency relative to fiat currency is such that the expected fee income for miners (converted to fiat currency value) is just their cost (denominated in fiat currency) plus a reasonable profit, they can lower the fee rate (fee/vBytes or gas price) to maintain stability of the product of vBytes * fee/vBytes or gas * gas price relative to fiat currency.&lt;/p&gt;</description></item><item><title>The Essence of the Internet is Marketing, and Web3 is Essentially Financial Marketing</title><link>https://mr.nickyam.com/Crypto/The-Essence-of-the-Internet-is-Marketing-and-Web3-is-Essentially-Financial-Marketing.html</link><pubDate>Sun, 28 May 2023 20:03:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The-Essence-of-the-Internet-is-Marketing-and-Web3-is-Essentially-Financial-Marketing.html</guid><description>&lt;p&gt;There are often stories that people love to tell: Two classmates, A and B, graduated together. A joined a strict and regulated software company, while B joined an unknown internet company. Several years later, A honed their skills in standardized coding and project management, while B&amp;rsquo;s company successfully went public, resulting in a skyrocketing value of their stock options and granting them financial freedom.&lt;/p&gt;</description></item><item><title>&lt; On-Chain Voting &gt; A Documentation of Social Contracts</title><link>https://mr.nickyam.com/Crypto/On-Chain_Voting_A_Documentation_of_Social_Contracts.html</link><pubDate>Sat, 27 May 2023 18:12:41 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/On-Chain_Voting_A_Documentation_of_Social_Contracts.html</guid><description>&lt;p&gt;&lt;img loading="lazy" src="https://telegraph-image.pages.dev/file/5f50b3ff760d1243ef0c0.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;The discussion in this article is not about using blockchain as a voting technology to fulfill certain voting requirements in the external world, such as conducting elections for a state governor in the United States on the blockchain or creating prediction markets where people can vote on whether the US will default on its debt or reach an agreement at the last moment to avoid default. These examples merely utilize blockchain to facilitate voting on external matters. The focus of this article is on the issue of decentralized organizations conducting on-chain voting themselves, which may involve a blockchain-based DAO voting on governance proposals or even governing the blockchain itself.&lt;/p&gt;</description></item><item><title>Liu Cixin on ChatGPT - Human Ineptitude as Humanity's Final Barrier</title><link>https://mr.nickyam.com/Tech/Liu-Cixin_on_ChatGPT_Human_Ineptitude_as_Humanitys_Final_Barrier.html</link><pubDate>Sat, 27 May 2023 15:00:19 +0800</pubDate><guid>https://mr.nickyam.com/Tech/Liu-Cixin_on_ChatGPT_Human_Ineptitude_as_Humanitys_Final_Barrier.html</guid><description>&lt;p&gt;&lt;a href="https://telegraph-image.pages.dev/file/cd138c0d7c62435448c92.jpg"&gt;&lt;img loading="lazy" src="https://telegraph-image.pages.dev/file/cd138c0d7c62435448c92.jpg"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In his speech titled &amp;ldquo;Sustainable Futures in Science Fiction Literature&amp;rdquo; at the United Nations Chinese Language Day, Liu Cixin offered a unique perspective on the future of humanity through the lens of science fiction.&lt;/p&gt;</description></item><item><title>The Concept of Universal Basic Income (UBI)</title><link>https://mr.nickyam.com/Crypto/Free_Money_The_Concept_of_Universal_Basic_Income.html</link><pubDate>Thu, 25 May 2023 15:18:01 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Free_Money_The_Concept_of_Universal_Basic_Income.html</guid><description>&lt;p&gt;&lt;img loading="lazy" src="https://telegraph-image.pages.dev/file/6fa1ccd08a5756a18a2ce.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;With the rise of ChatGPT and OpenAI, another cryptocurrency-related project founded by Sam Altman called Worldcoin has also caught people&amp;rsquo;s attention. What does Worldcoin aim to do? It aims to use blockchain technology to implement Universal Basic Income (UBI), which means unconditionally giving free money to everyone, enough to cover their basic living expenses. This way, the problem of poverty can be solved in one fell swoop. People will no longer worry about their basic needs and can dedicate their time to more meaningful work.&lt;/p&gt;</description></item><item><title>U.S. Debt on the Verge of Default</title><link>https://mr.nickyam.com/World/U.S._Debt_on_the_Verge_of_Default.html</link><pubDate>Tue, 23 May 2023 15:21:26 +0800</pubDate><guid>https://mr.nickyam.com/World/U.S._Debt_on_the_Verge_of_Default.html</guid><description>&lt;p&gt;&lt;img loading="lazy" src="https://telegraph-image.pages.dev/file/c2aeeea6af7ca3d2814f3.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;An intriguing question is: How is the purchase price of these coins distributed? A research study from Glassnode provides some insights.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Supply creates demand</title>
+      <link>http://localhost:56012/Crypto/Supply-creates-demand.html</link>
+      <pubDate>Sat, 29 Jul 2023 09:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Supply-creates-demand.html</guid>
+      <description>&lt;p&gt;Overnight, Bitcoin continues to fluctuate above $29,000. The volatility index (30-day implied volatility of option prices) has further decreased, indicating exhaustion from both the bullish and bearish sides.&lt;/p&gt;
+&lt;p&gt;According to reports, Bitcoin mining equipment manufacturers are shifting their focus from the saturated U.S. market to the mining market in Russia. Luxor Technologies, a mining infrastructure service provider, stated that more machines are flowing into Russia than any other place in the world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Fed’s Swan Song</title>
+      <link>http://localhost:56012/Crypto/The-Feds-Swan-Song.html</link>
+      <pubDate>Wed, 26 Jul 2023 11:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/The-Feds-Swan-Song.html</guid>
+      <description>&lt;p&gt;Overnight, the Federal Reserve&amp;rsquo;s July interest rate meeting released its outcome. Bitcoin remained unfazed and continued its path of recovery since July 25, experiencing a slight rebound to the $29.5k level.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bitcoin Minting Tax</title>
+      <link>http://localhost:56012/Crypto/Bitcoin-Minting-Tax.html</link>
+      <pubDate>Wed, 26 Jul 2023 09:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Bitcoin-Minting-Tax.html</guid>
+      <description>&lt;p&gt;Overnight, Bitcoin continues to hover above $29,000. Most likely, the Federal Reserve&amp;rsquo;s July interest rate meeting has commenced. Tomorrow, we should know the outcome, and the market is poised to make a decision.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Scarcer Ability , Asking the Right Questions</title>
+      <link>http://localhost:56012/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions.html</link>
+      <pubDate>Wed, 19 Jul 2023 18:12:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions.html</guid>
+      <description>&lt;p&gt;Overnight, Bitcoin experienced slight fluctuations around $30,000, while UNI steadily rose and is now close to $6.&lt;/p&gt;
+&lt;p&gt;During the Sunday private board meeting, a member asked about the comparison between Uniswap (UNI) and Arbitrum (ARB). Both projects are undoubtedly of high quality, otherwise, the comparative analysis would be meaningless.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Don&#39;t Do Cryptocurrency Investments Without 10 Million Dollars</title>
+      <link>http://localhost:56012/Crypto/Dont_Do_Cryptocurrency_Investments_Without_10_Million_Dollars.html</link>
+      <pubDate>Tue, 18 Jul 2023 19:02:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Dont_Do_Cryptocurrency_Investments_Without_10_Million_Dollars.html</guid>
+      <description>&lt;p&gt;Overnight, Bitcoin slightly dipped below $30,000 but quickly rebounded, currently sliding along the $30,000 mark.&lt;/p&gt;
+&lt;p&gt;A discussion about the entry barrier for cryptocurrency investment has sparked a debate in the overseas crypto community. It began when a newcomer asked a prominent figure how someone with just a few thousand dollars could start investing in crypto. Should they invest in Bitcoin, Ethereum, meme coins, or altcoins that outperform Bitcoin? Is it reliable?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Earning Ability is the Best Alpha</title>
+      <link>http://localhost:56012/Crypto/Earning_Ability_is_the_Best_Alpha.html</link>
+      <pubDate>Mon, 17 Jul 2023 09:12:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Earning_Ability_is_the_Best_Alpha.html</guid>
+      <description>&lt;p&gt;Overnight, Bitcoin remains above $30,000, maintaining its consolidation for the 25th day since June 23rd.&lt;/p&gt;
+&lt;p&gt;What is the key to successful investment? Many have witnessed people abandoning beta (average returns) in pursuit of alpha (excess returns), selling Bitcoin for meme coins, only to end up not outperforming the market and suffering significant losses. While some courageous individuals may regroup and start again, others might become disheartened and exit the market.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bitcoin during the bear market</title>
+      <link>http://localhost:56012/Crypto/Bitcoin_during_the_bear_market.html</link>
+      <pubDate>Sun, 16 Jul 2023 18:12:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Bitcoin_during_the_bear_market.html</guid>
+      <description>&lt;p&gt;Overnight, Bitcoin continues to consolidate above the 30k level. Looking at the weekly chart, the previous day&amp;rsquo;s court ruling regarding XRP, which obtained a 2/3 non-security designation, turned out to be a mere &amp;ldquo;show of empty positivity.&amp;rdquo; It further depleted the market&amp;rsquo;s strength and brought everything back to square one, continuing the trend of slight decline. Short-term speculators have been repeatedly washed out, while long-term hodlers are unable to sell. Market liquidity is drying up, yet there is a lack of substantial catalysts for a significant change, resulting in the current awkward situation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is value?</title>
+      <link>http://localhost:56012/Crypto/What_is_value.html</link>
+      <pubDate>Wed, 12 Jul 2023 10:13:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/What_is_value.html</guid>
+      <description>&lt;p&gt;Overnight, BTC continues to consolidate above 30k. It&amp;rsquo;s a garbage time for traders but a golden time for hodlers. The longer it consolidates, the more fear it instills in many people. The more afraid they become, the less inclined they are to accumulate more or even consider reducing their holdings for safety. There is a superstitious saying among technical analysis enthusiasts, &amp;ldquo;Consolidation leads to a drop.&amp;rdquo; Jiao Chain doesn&amp;rsquo;t understand this saying. Drop? In which direction will it drop? If that&amp;rsquo;s the case, wouldn&amp;rsquo;t a 1/BTC candlestick chart indicate a rise after prolonged consolidation? It shows that technical analysis, if not entirely useless, is at least largely ineffective.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What kind of mistakes should never be made in the cryptocurrency market?</title>
+      <link>http://localhost:56012/Crypto/What_kind_of_mistakes_should_never_be_made_in_the_cryptocurrency_market.html</link>
+      <pubDate>Mon, 10 Jul 2023 12:12:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/What_kind_of_mistakes_should_never_be_made_in_the_cryptocurrency_market.html</guid>
+      <description>&lt;p&gt;If you followed the investment advice of the BlackRock CEO and went long on Bitcoin yesterday, you would have probably learned your lesson from the market today.  Today, let&amp;rsquo;s take a look at how Levermore, more than a hundred years ago, fell victim to trusting the views of the big shots and ended up losing money.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How much BTC should you hoard?</title>
+      <link>http://localhost:56012/Crypto/How-much-BTC-should-you-hoard.html</link>
+      <pubDate>Fri, 07 Jul 2023 21:53:32 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/How-much-BTC-should-you-hoard.html</guid>
+      <description>&lt;p&gt;Often, friends struggle to determine the target amount when formulating a long-term investment plan. Some friends, with lower incomes, find it difficult to imagine owning 1 BTC, which is valued at around $30,000 or over 200,000 RMB. On the other hand, friends with more wealth feel that buying a few BTC doesn&amp;rsquo;t seem satisfying enough.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Paradigm Betrays the Revolution</title>
+      <link>http://localhost:56012/Crypto/Paradigm-Betrays-the-Revolution.html</link>
+      <pubDate>Fri, 07 Jul 2023 21:53:32 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Paradigm-Betrays-the-Revolution.html</guid>
+      <description>&lt;p&gt;The English word &amp;ldquo;Paradigm&amp;rdquo; means &amp;ldquo;a typical example or pattern.&amp;rdquo; The most common usage is in the phrase &amp;ldquo;Paradigm Shift&amp;rdquo; , which refers to a fundamental change in the basic concepts and practices of a scientific discipline. It is a concept in the philosophy of science introduced by American physicist and philosopher Thomas Kuhn and incorporated into the general lexicon. While Kuhn initially limited the use of this term to the natural sciences, the concept of paradigm shift is also used in many non-scientific contexts to describe profound changes in fundamental models or perceptions of events.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Recommended Free and Secure Email Services without Phone Registration</title>
+      <link>http://localhost:56012/Tech/Recommended-Free-and-Secure-Email-Services-without-Phone-Registration.html</link>
+      <pubDate>Fri, 07 Jul 2023 21:53:32 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/Recommended-Free-and-Secure-Email-Services-without-Phone-Registration.html</guid>
+      <description>&lt;p&gt;Using a free anonymous email service can be advantageous for several reasons.&lt;/p&gt;
+&lt;p&gt;Firstly, it helps to protect your privacy and maintain confidentiality. By concealing your identity and personal information, you can communicate without revealing sensitive details about yourself. This can be particularly useful when engaging in online forums, signing up for services, or interacting with unfamiliar individuals or websites.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>BlackRock CEO Praises Bitcoin</title>
+      <link>http://localhost:56012/Crypto/BlackRock_CEO_Praises_Bitcoin.html</link>
+      <pubDate>Fri, 07 Jul 2023 20:13:10 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/BlackRock_CEO_Praises_Bitcoin.html</guid>
+      <description>&lt;p&gt;After a sudden surge to 31k, Bitcoin quickly retreated overnight, briefly dropping below 30k and currently maintaining consolidation near that level. This scene reminded Jiao Chain of our defensive counterattacks against Vietnam in the 1970s and 1980s. We would strike with full force and swiftly retreat, engaging in a decade-long border war to exhaust and defeat the enemy. This approach avoided getting deeply entrenched in a war quagmire while effectively undermining the enemy&amp;rsquo;s arrogance. By strategically retreating, occupying advantageous positions, and engaging in attritional warfare, we achieved our strategic objectives at minimal cost.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Essential Significance of Hoarding Bitcoin</title>
+      <link>http://localhost:56012/Crypto/The-Essential-Significance-of-Hoarding-Bitcoin.html</link>
+      <pubDate>Thu, 06 Jul 2023 19:51:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/The-Essential-Significance-of-Hoarding-Bitcoin.html</guid>
+      <description>&lt;p&gt;The most primitive storage need of humans, similar to squirrels storing pine cones for winter, is an instinctual response to future problems. This instinctual behavior does not require humans to possess such advanced thinking systems in their brains. Squirrels and many other animals can also anticipate the future.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nobody cares about your blog</title>
+      <link>http://localhost:56012/World/Nobody_cares_about_your_blog.html</link>
+      <pubDate>Sat, 01 Jul 2023 19:01:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/Nobody_cares_about_your_blog.html</guid>
+      <description>&lt;p&gt;I started writing on my blog some years ago, and since then I’ve had a lot of reasons to stop writing. Here’s a list of why nobody cares about your blog:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Security Debate and Collision between Proof of Stake (PoS) and Proof of Work (PoW) since Ethereum&#39;s Transition</title>
+      <link>http://localhost:56012/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition.html</link>
+      <pubDate>Thu, 08 Jun 2023 16:16:32 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/The-Security-Debate-and-Collision-between-Proof-of-Stake-PoS-and-Proof-of-Work-PoW-since-Ethereums-Transition.html</guid>
+      <description>&lt;p&gt;Ever since Ethereum transitioned from PoW to PoS, the discussion and collision regarding the security of PoS and PoW have become a focal point. As early as November 6, 2020, Vitalik Buterin wrote a blog post titled &amp;ldquo;Why Proof of Stake&amp;rdquo; , where he conducted some calculations. His calculations indicated that, given equal security costs, PoS is safer than PoW.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apple Unveils the Most Powerful Device for Metaverse as Web3 Experts Transition to AI</title>
+      <link>http://localhost:56012/Tech/Apple-Unveils-the-Most-Powerful-Device-for-Metaverse-as-Web3-Experts-Transition-to-AI.html</link>
+      <pubDate>Wed, 07 Jun 2023 20:50:12 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/Apple-Unveils-the-Most-Powerful-Device-for-Metaverse-as-Web3-Experts-Transition-to-AI.html</guid>
+      <description>&lt;p&gt;The first few months of 2023 marked a turning point for the metaverse. Just as web3 experts were transitioning to AI, Apple unveiled its groundbreaking device, the Vision Pro, for the metaverse. While renowned figures like Bill Gates had previously advocated for Microsoft to go all-in on the metaverse but then shifted their focus to AI, Mark Zuckerberg, who renamed his company Meta to align with the metaverse, admitted strategic missteps and announced layoffs for a transition. Influential voices and experts who were once avid supporters of Web3 and the metaverse quickly rebranded themselves as AI enthusiasts, proclaiming AI as the future to attract followers.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contrasting Web3 Policies , Hong Kong&#39;s Virtual Asset Focus and Beijing&#39;s Internet 3.0 Emphasis</title>
+      <link>http://localhost:56012/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing.html</link>
+      <pubDate>Tue, 06 Jun 2023 20:11:32 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing.html</guid>
+      <description>&lt;p&gt;Starting from June 1st, the guidelines for virtual asset trading platform operators and the anti-money laundering guidelines (referred to as the &amp;ldquo;Guidelines&amp;rdquo;) issued by the Hong Kong Securities and Futures Commission (SFC) have officially come into effect. The SFC has begun accepting applications for licenses from virtual asset trading platform operators and allows retail investors to use licensed virtual asset trading platforms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What is Web3 Privacy? How is its Current Development?</title>
+      <link>http://localhost:56012/Crypto/What-is-Web3-Privacy-How-is-its-Current-Development.html</link>
+      <pubDate>Tue, 06 Jun 2023 12:12:32 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/What-is-Web3-Privacy-How-is-its-Current-Development.html</guid>
+      <description>&lt;p&gt;Generally speaking, internet privacy primarily concerns the invisibility of users&amp;rsquo; data information, such as their identities, behaviors, and activities. In the era of the internet, all our information and actions are presented in a digital form. However, once any system storing digital information is connected to the network, it becomes a potential target for hackers. This is especially critical when it comes to sensitive information related to finance and personal health. The privacy and security of data become even more important.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Musk has arrived</title>
+      <link>http://localhost:56012/Tech/Musk-has-arrived.html</link>
+      <pubDate>Fri, 02 Jun 2023 20:20:00 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/Musk-has-arrived.html</guid>
+      <description>&lt;p&gt;Musk has arrived. Not only has he arrived, but he has arrived with great fanfare. And it&amp;rsquo;s not just the arrival that&amp;rsquo;s making headlines; he&amp;rsquo;s also being received with high-profile receptions.&lt;/p&gt;
+&lt;p&gt;Which Musk are we talking about? The one who produces Tesla cars, launches Starlink satellites into orbit, vows to send people to Mars with rockets, acquires Twitter and lays off 70% of its staff, and makes extravagant statements about Dogecoin while later calling it a scam on television.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>On the Self-Limitation of Ethereum</title>
+      <link>http://localhost:56012/Crypto/On-the-Self-Limitation-of-Ethereum.html</link>
+      <pubDate>Tue, 30 May 2023 22:11:32 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/On-the-Self-Limitation-of-Ethereum.html</guid>
+      <description>&lt;p&gt;Recently, the similarities and differences between Bitcoin and Ethereum regarding the issue of price self-limitation have also been discussed. Some further thoughts and analysis are recorded below for readers&amp;rsquo; discussion and criticism.&lt;img loading=&#34;lazy&#34; src=&#34;https://telegraph-image.pages.dev/file/3b97d5f2b70bfab540ab8.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The issue of self-limitation is actually somewhat subtle. Ethereum also draws on Bitcoin&amp;rsquo;s method of dynamically adjusting transaction fees (miner fees) in its calculations. For Bitcoin, the miner fee = vBytes (transaction size in bytes) * fee/vBytes (fee rate denominated in BTC); for Ethereum, the gas fee = gas (amount of computational resources consumed by instructions) * gas price (denominated in ETH). Therefore, on the surface, there doesn&amp;rsquo;t seem to be a problem with whether the fee rate or gas price is denominated in BTC, ETH, or USD. From the perspective of supply and demand economics, if the pricing currency relative to fiat currency is such that the expected fee income for miners (converted to fiat currency value) is just their cost (denominated in fiat currency) plus a reasonable profit, they can lower the fee rate (fee/vBytes or gas price) to maintain stability of the product of vBytes * fee/vBytes or gas * gas price relative to fiat currency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Essence of the Internet is Marketing, and Web3 is Essentially Financial Marketing</title>
+      <link>http://localhost:56012/Crypto/The-Essence-of-the-Internet-is-Marketing-and-Web3-is-Essentially-Financial-Marketing.html</link>
+      <pubDate>Sun, 28 May 2023 20:03:32 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/The-Essence-of-the-Internet-is-Marketing-and-Web3-is-Essentially-Financial-Marketing.html</guid>
+      <description>&lt;p&gt;There are often stories that people love to tell: Two classmates, A and B, graduated together. A joined a strict and regulated software company, while B joined an unknown internet company. Several years later, A honed their skills in standardized coding and project management, while B&amp;rsquo;s company successfully went public, resulting in a skyrocketing value of their stock options and granting them financial freedom.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>&lt; On-Chain Voting &gt; A Documentation of Social Contracts</title>
+      <link>http://localhost:56012/Crypto/On-Chain_Voting_A_Documentation_of_Social_Contracts.html</link>
+      <pubDate>Sat, 27 May 2023 18:12:41 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/On-Chain_Voting_A_Documentation_of_Social_Contracts.html</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://telegraph-image.pages.dev/file/5f50b3ff760d1243ef0c0.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The discussion in this article is not about using blockchain as a voting technology to fulfill certain voting requirements in the external world, such as conducting elections for a state governor in the United States on the blockchain or creating prediction markets where people can vote on whether the US will default on its debt or reach an agreement at the last moment to avoid default. These examples merely utilize blockchain to facilitate voting on external matters. The focus of this article is on the issue of decentralized organizations conducting on-chain voting themselves, which may involve a blockchain-based DAO voting on governance proposals or even governing the blockchain itself.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Liu Cixin on ChatGPT - Human Ineptitude as Humanity&#39;s Final Barrier</title>
+      <link>http://localhost:56012/Tech/Liu-Cixin_on_ChatGPT_Human_Ineptitude_as_Humanitys_Final_Barrier.html</link>
+      <pubDate>Sat, 27 May 2023 15:00:19 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/Liu-Cixin_on_ChatGPT_Human_Ineptitude_as_Humanitys_Final_Barrier.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://telegraph-image.pages.dev/file/cd138c0d7c62435448c92.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://telegraph-image.pages.dev/file/cd138c0d7c62435448c92.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In his speech titled &amp;ldquo;Sustainable Futures in Science Fiction Literature&amp;rdquo; at the United Nations Chinese Language Day, Liu Cixin offered a unique perspective on the future of humanity through the lens of science fiction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Concept of Universal Basic Income (UBI)</title>
+      <link>http://localhost:56012/Crypto/Free_Money_The_Concept_of_Universal_Basic_Income.html</link>
+      <pubDate>Thu, 25 May 2023 15:18:01 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Free_Money_The_Concept_of_Universal_Basic_Income.html</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://telegraph-image.pages.dev/file/6fa1ccd08a5756a18a2ce.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;With the rise of ChatGPT and OpenAI, another cryptocurrency-related project founded by Sam Altman called Worldcoin has also caught people&amp;rsquo;s attention. What does Worldcoin aim to do? It aims to use blockchain technology to implement Universal Basic Income (UBI), which means unconditionally giving free money to everyone, enough to cover their basic living expenses. This way, the problem of poverty can be solved in one fell swoop. People will no longer worry about their basic needs and can dedicate their time to more meaningful work.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>U.S. Debt on the Verge of Default</title>
+      <link>http://localhost:56012/World/U.S._Debt_on_the_Verge_of_Default.html</link>
+      <pubDate>Tue, 23 May 2023 15:21:26 +0800</pubDate>
+      <guid>http://localhost:56012/World/U.S._Debt_on_the_Verge_of_Default.html</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://telegraph-image.pages.dev/file/c2aeeea6af7ca3d2814f3.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Bitcoin rebounded above $27,000 overnight.&lt;/p&gt;
-&lt;p&gt;Children&amp;rsquo;s Day is approaching, but it seems like a difficult time for U.S. President Biden. He had to hastily pack his bags and return to the United States without attending the scheduled events of the G7 summit. Why? The backyard is about to catch fire. This fire is the U.S. debt default.&lt;/p&gt;</description></item><item><title>A Lucrative Business Opportunity of Stablecoins</title><link>https://mr.nickyam.com/Crypto/Stablecoins_A_Lucrative_Business_Opportunity.html</link><pubDate>Fri, 19 May 2023 15:47:46 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Stablecoins_A_Lucrative_Business_Opportunity.html</guid><description>&lt;p&gt;Earlier this month, Tether, the leading stablecoin issuer by market capitalization, released its first-quarter reserve and profit data. It&amp;rsquo;s not just impressive; it&amp;rsquo;s exceptionally impressive. Let&amp;rsquo;s take a look at a few highlights:&lt;/p&gt;</description></item><item><title>Voting Methods in DAOs</title><link>https://mr.nickyam.com/Crypto/Voting_Methods_in_DAOs.html</link><pubDate>Fri, 19 May 2023 15:29:28 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Voting_Methods_in_DAOs.html</guid><description>&lt;p&gt;&lt;img loading="lazy" src="https://telegraph-image.pages.dev/file/043ad74d2fe80a746f0c2.png"&gt;&lt;/p&gt;
-&lt;p&gt;During the recent six months of practicing DAOs (Decentralized Autonomous Organizations), the basic form of organizational governance, namely voting, has been frequently pondered upon.&lt;/p&gt;</description></item><item><title>Good Job, Tencent!</title><link>https://mr.nickyam.com/Tech/Good_Job_Tencent.html</link><pubDate>Wed, 17 May 2023 15:51:21 +0800</pubDate><guid>https://mr.nickyam.com/Tech/Good_Job_Tencent.html</guid><description>&lt;p&gt;&lt;img loading="lazy" src="https://telegraph-image.pages.dev/file/79b1db4224de54f73e4a1.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;Tencent released its quarterly report yesterday, revealing a year-on-year revenue growth of 10% and a profit increase of 27%. This has sparked various interpretations and discussions in public opinion. Let&amp;rsquo;s not delve into specific details here; those who wish to see positive views can find favorable articles, while those interested in negative perspectives can seek critical analyses. Everyone can find what they prefer.&lt;/p&gt;</description></item><item><title>Do not apply double standards when it comes to carbon emissions</title><link>https://mr.nickyam.com/Crypto/Do_not_apply_double_standards_when_it_comes_to_carbon_emissions.html</link><pubDate>Wed, 17 May 2023 15:50:37 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Do_not_apply_double_standards_when_it_comes_to_carbon_emissions.html</guid><description>&lt;p&gt;&lt;img loading="lazy" src="https://telegraph-image.pages.dev/file/e5da4dcdd5f631218f6a3.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Children&amp;rsquo;s Day is approaching, but it seems like a difficult time for U.S. President Biden. He had to hastily pack his bags and return to the United States without attending the scheduled events of the G7 summit. Why? The backyard is about to catch fire. This fire is the U.S. debt default.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Lucrative Business Opportunity of Stablecoins</title>
+      <link>http://localhost:56012/Crypto/Stablecoins_A_Lucrative_Business_Opportunity.html</link>
+      <pubDate>Fri, 19 May 2023 15:47:46 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Stablecoins_A_Lucrative_Business_Opportunity.html</guid>
+      <description>&lt;p&gt;Earlier this month, Tether, the leading stablecoin issuer by market capitalization, released its first-quarter reserve and profit data. It&amp;rsquo;s not just impressive; it&amp;rsquo;s exceptionally impressive. Let&amp;rsquo;s take a look at a few highlights:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Voting Methods in DAOs</title>
+      <link>http://localhost:56012/Crypto/Voting_Methods_in_DAOs.html</link>
+      <pubDate>Fri, 19 May 2023 15:29:28 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Voting_Methods_in_DAOs.html</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://telegraph-image.pages.dev/file/043ad74d2fe80a746f0c2.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;During the recent six months of practicing DAOs (Decentralized Autonomous Organizations), the basic form of organizational governance, namely voting, has been frequently pondered upon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Good Job, Tencent!</title>
+      <link>http://localhost:56012/Tech/Good_Job_Tencent.html</link>
+      <pubDate>Wed, 17 May 2023 15:51:21 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/Good_Job_Tencent.html</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://telegraph-image.pages.dev/file/79b1db4224de54f73e4a1.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Tencent released its quarterly report yesterday, revealing a year-on-year revenue growth of 10% and a profit increase of 27%. This has sparked various interpretations and discussions in public opinion. Let&amp;rsquo;s not delve into specific details here; those who wish to see positive views can find favorable articles, while those interested in negative perspectives can seek critical analyses. Everyone can find what they prefer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Do not apply double standards when it comes to carbon emissions</title>
+      <link>http://localhost:56012/Crypto/Do_not_apply_double_standards_when_it_comes_to_carbon_emissions.html</link>
+      <pubDate>Wed, 17 May 2023 15:50:37 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Do_not_apply_double_standards_when_it_comes_to_carbon_emissions.html</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://telegraph-image.pages.dev/file/e5da4dcdd5f631218f6a3.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Overnight, Bitcoin made a strong leap from the 26.5k level and rebounded to the 27.5k level.&lt;/p&gt;
-&lt;p&gt;Recently, some people in the United States are applying double standards to Bitcoin&amp;rsquo;s carbon emissions. They claim that Bitcoin mining consumes a certain amount of electricity and results in a corresponding amount of carbon emissions, thus should be subject to a certain emission tax. However, they fail to apply the same standards to Tesla&amp;rsquo;s electric vehicles, which also consume a significant amount of electricity and generate a substantial amount of carbon emissions. Tesla, on the other hand, receives carbon emission credits from the US government every year and sells them to other companies in need, profiting from it.&lt;/p&gt;</description></item><item><title>The Federal Reserve's Defeat, A Turning Point in Monetary Policy</title><link>https://mr.nickyam.com/World/The_Federal_Reserves_Defeat_A_Turning_Point_in_Monetary_Policy.html</link><pubDate>Fri, 05 May 2023 15:52:02 +0800</pubDate><guid>https://mr.nickyam.com/World/The_Federal_Reserves_Defeat_A_Turning_Point_in_Monetary_Policy.html</guid><description>&lt;p&gt;On the early morning of the 4th, the Federal Reserve concluded its May interest rate meeting. As expected, there was another 25 basis points rate hike, bringing the federal funds rate to the range of 5% to 5.25%. The plan to reduce the balance sheet through bond selling continues, but the wording suggesting further rate hikes has been removed. This is likely to be the last rate hike. Bitcoin experienced a drop followed by a rise, surging from around $28.5k to $29k.&lt;/p&gt;</description></item><item><title>Device shots – making shell screenshots online, supporting multi brand mobile phones, tablets, computers, TVs, monitors, smart watches</title><link>https://mr.nickyam.com/Tech/Device-shots.html</link><pubDate>Mon, 01 May 2023 20:50:00 +0800</pubDate><guid>https://mr.nickyam.com/Tech/Device-shots.html</guid><description>&lt;p&gt;Device shots is an online tool for making screenshots with shells. You just need to drag the screenshots onto the web page. It supports multi brand mobile phones, tablets, computers, TVs, monitors, smart watches and other devices.&lt;/p&gt;
-&lt;p&gt;Screenshots with shells can make them look more specific, but in fact, they are mainly more beautiful.&lt;/p&gt;</description></item><item><title>Handbook of COVID-19 Prevention and Treatment</title><link>https://mr.nickyam.com/World/Handbook-of-COVID-19-Prevention-and-Treatment.html</link><pubDate>Sun, 05 Apr 2020 21:53:32 +0800</pubDate><guid>https://mr.nickyam.com/World/Handbook-of-COVID-19-Prevention-and-Treatment.html</guid><description>&lt;p&gt;Ma Yun Foundation invited many clinicians who participate in the treatment of new coronavirus and spent a week writing a &lt;strong&gt;Handbook of COVID-19 Prevention and Treatment&lt;/strong&gt; for hospitals, doctors and nurses.&lt;/p&gt;
-&lt;p&gt;Most of the hospitals in the world are facing challenges. We especially hope to share these practical experiences with hospitals and medical staff around the world ASAP. So please download, print, or forward them to your nearby hospitals and medical staff so that they can be ready.&lt;/p&gt;</description></item><item><title>How to prevent the spread of COVID-19 when staying home</title><link>https://mr.nickyam.com/World/How-to-prevent-the-spread-of-COVID-19-when-staying-home.html</link><pubDate>Sun, 05 Apr 2020 21:00:32 +0800</pubDate><guid>https://mr.nickyam.com/World/How-to-prevent-the-spread-of-COVID-19-when-staying-home.html</guid><description>&lt;ol&gt;
+&lt;p&gt;Recently, some people in the United States are applying double standards to Bitcoin&amp;rsquo;s carbon emissions. They claim that Bitcoin mining consumes a certain amount of electricity and results in a corresponding amount of carbon emissions, thus should be subject to a certain emission tax. However, they fail to apply the same standards to Tesla&amp;rsquo;s electric vehicles, which also consume a significant amount of electricity and generate a substantial amount of carbon emissions. Tesla, on the other hand, receives carbon emission credits from the US government every year and sells them to other companies in need, profiting from it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Federal Reserve&#39;s Defeat, A Turning Point in Monetary Policy</title>
+      <link>http://localhost:56012/World/The_Federal_Reserves_Defeat_A_Turning_Point_in_Monetary_Policy.html</link>
+      <pubDate>Fri, 05 May 2023 15:52:02 +0800</pubDate>
+      <guid>http://localhost:56012/World/The_Federal_Reserves_Defeat_A_Turning_Point_in_Monetary_Policy.html</guid>
+      <description>&lt;p&gt;On the early morning of the 4th, the Federal Reserve concluded its May interest rate meeting. As expected, there was another 25 basis points rate hike, bringing the federal funds rate to the range of 5% to 5.25%. The plan to reduce the balance sheet through bond selling continues, but the wording suggesting further rate hikes has been removed. This is likely to be the last rate hike. Bitcoin experienced a drop followed by a rise, surging from around $28.5k to $29k.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Device shots – making shell screenshots online, supporting multi brand mobile phones, tablets, computers, TVs, monitors, smart watches</title>
+      <link>http://localhost:56012/Tech/Device-shots.html</link>
+      <pubDate>Mon, 01 May 2023 20:50:00 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/Device-shots.html</guid>
+      <description>&lt;p&gt;Device shots is an online tool for making screenshots with shells. You just need to drag the screenshots onto the web page. It supports multi brand mobile phones, tablets, computers, TVs, monitors, smart watches and other devices.&lt;/p&gt;
+&lt;p&gt;Screenshots with shells can make them look more specific, but in fact, they are mainly more beautiful.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Handbook of COVID-19 Prevention and Treatment</title>
+      <link>http://localhost:56012/World/Handbook-of-COVID-19-Prevention-and-Treatment.html</link>
+      <pubDate>Sun, 05 Apr 2020 21:53:32 +0800</pubDate>
+      <guid>http://localhost:56012/World/Handbook-of-COVID-19-Prevention-and-Treatment.html</guid>
+      <description>&lt;p&gt;Ma Yun Foundation invited many clinicians who participate in the treatment of new coronavirus and spent a week writing a &lt;strong&gt;Handbook of COVID-19 Prevention and Treatment&lt;/strong&gt; for hospitals, doctors and nurses.&lt;/p&gt;
+&lt;p&gt;Most of the hospitals in the world are facing challenges. We especially hope to share these practical experiences with hospitals and medical staff around the world ASAP. So please download, print, or forward them to your nearby hospitals and medical staff so that they can be ready.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to prevent the spread of COVID-19 when staying home</title>
+      <link>http://localhost:56012/World/How-to-prevent-the-spread-of-COVID-19-when-staying-home.html</link>
+      <pubDate>Sun, 05 Apr 2020 21:00:32 +0800</pubDate>
+      <guid>http://localhost:56012/World/How-to-prevent-the-spread-of-COVID-19-when-staying-home.html</guid>
+      <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Will open windows increase the chance of infection?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Actually, good vatilation helps to reduce the amount of viruses that may exist in doors and helps to renew the indoor air. ‘Diluted’ outdoor air is almost impossible to bring viruses indoors.&lt;/p&gt;
 &lt;p&gt;If your family members are suspected acute respiratory infection patients, open the window but keep the door closed during ventilation. Do not use central ventilation system to avoid the air in the sick people’s room entering the clean areas.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>Recommendations for pregnant women</title><link>https://mr.nickyam.com/World/Recommendations-for-pregnant-women.html</link><pubDate>Sun, 05 Apr 2020 20:00:32 +0800</pubDate><guid>https://mr.nickyam.com/World/Recommendations-for-pregnant-women.html</guid><description>&lt;p&gt;&lt;img loading="lazy" src="https://raw.githubusercontent.com/nickyam/img/master/pics/Pregnant-woman.jpeg"&gt;&lt;/p&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Recommendations for pregnant women</title>
+      <link>http://localhost:56012/World/Recommendations-for-pregnant-women.html</link>
+      <pubDate>Sun, 05 Apr 2020 20:00:32 +0800</pubDate>
+      <guid>http://localhost:56012/World/Recommendations-for-pregnant-women.html</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://raw.githubusercontent.com/nickyam/img/master/pics/Pregnant-woman.jpeg&#34;&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Precautions in pregnancy check-ups&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;During the epidemic, pregnant moms need to note the following things when going for pregnancy check-ups:&lt;/p&gt;</description></item><item><title>How to care for children during the epidemic ?</title><link>https://mr.nickyam.com/World/How-to-care-for-children-during-the-epidemic.html</link><pubDate>Wed, 01 Apr 2020 20:00:00 +0800</pubDate><guid>https://mr.nickyam.com/World/How-to-care-for-children-during-the-epidemic.html</guid><description>&lt;ol&gt;
+&lt;p&gt;During the epidemic, pregnant moms need to note the following things when going for pregnancy check-ups:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to care for children during the epidemic ?</title>
+      <link>http://localhost:56012/World/How-to-care-for-children-during-the-epidemic.html</link>
+      <pubDate>Wed, 01 Apr 2020 20:00:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/How-to-care-for-children-during-the-epidemic.html</guid>
+      <description>&lt;ol&gt;
 &lt;li&gt;how to protect your children when going out&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Don’t go out if possible, that is the best way to protect your children.&lt;/p&gt;</description></item><item><title>A sudden eye disease</title><link>https://mr.nickyam.com/World/A-sudden-eye-disease.html</link><pubDate>Sat, 18 Jan 2020 10:00:00 +0800</pubDate><guid>https://mr.nickyam.com/World/A-sudden-eye-disease.html</guid><description>&lt;p&gt;At 9 o&amp;rsquo;clock last night, my right eye burst into tears when I was on the Internet, and then my eyelids could not be opened. This is an eye disease I have never experienced in my life; of course, except for myopia. After ten minutes of rest, I still felt not well. I finally standed my eyelids to write a diary half-blindly, and hoped that when I fell asleep, I could heal myself.&lt;/p&gt;
-&lt;p&gt;I woke up early today and found that my symptoms did not ease. In the mirror, I found that there are some red filaments in the right eye. Just like the suspected conjunctivitis which is also known as &amp;ldquo;red eye disease&amp;rdquo;, but the symptoms of conjunctivitis are not obvious. As a person with a good attendance record, I went for work as usual. Before I start my work, I did the following things:&lt;/p&gt;</description></item><item><title>The resolution of macOS beta update prompts insufficient space, infinite loop restart</title><link>https://mr.nickyam.com/Tech/The-resolution-of-macOS-beta-update-prompts-insufficient-space-infinite-loop-restart.html</link><pubDate>Fri, 10 May 2019 10:00:00 +0800</pubDate><guid>https://mr.nickyam.com/Tech/The-resolution-of-macOS-beta-update-prompts-insufficient-space-infinite-loop-restart.html</guid><description>&lt;p&gt;Before going out this morning, I downloaded the new macOS Catalina beta system and let it update itself. When I came back in the afternoon, I found that the system update failed, indicating that the storage space was insufficient. I encountered this situation in the past, I restarted the computer and entered the old system, and then re-updated after setting some space free.&lt;/p&gt;
-&lt;p&gt;However this time things are different. On the one hand, I still have 20GB of free hard disk space before the update. According to common sense, I should not be prompted for insufficient space. On the other hand, I could not enter the old system after the update fails. I updated the system in an infinite loop, and the update fails.&lt;/p&gt;</description></item><item><title>I received a Bitcoin Blackmail</title><link>https://mr.nickyam.com/Crypto/I-received-a-Bitcoin-Blackmail.html</link><pubDate>Sun, 24 Mar 2019 08:00:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/I-received-a-Bitcoin-Blackmail.html</guid><description>&lt;p&gt;This evening, I received a special email from the mailbox that I haven&amp;rsquo;t used for a long time, a bitcoin blackmail. The email showed me the password that I have always been familiar with. Next, the mail told me that someone had captured my camera at the same time and took my private video. I was required to pay $ 999 in the form of Bitcoin. First of all, I am convinced that I have no private photos or videos; secondly, I will not accept extortion by the other party; finally, my password was changed a long time ago, so this should be from some password database when it leaked which i was involved&lt;/p&gt;</description></item><item><title>The end of 2018</title><link>https://mr.nickyam.com/World/The-end-of-2018.html</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate><guid>https://mr.nickyam.com/World/The-end-of-2018.html</guid><description>&lt;p&gt;In the last day of the year, while writing a summary of the year and update new year plan,I am thinking of the time.&lt;/p&gt;
-&lt;p&gt;As you get older, the proportion of your life in a lifetime is getting lower and lower, and the year is getting shorter and shorter for you. In fact, it is not that the earth is getting faster and faster, the change is the sensibility that you look at the surroundings and people,and touch the world.&lt;/p&gt;</description></item><item><title>The negative evolution of information on Internet</title><link>https://mr.nickyam.com/World/The_negative_evolution_of_information_on_Internet.html</link><pubDate>Fri, 07 Sep 2018 10:20:00 +0800</pubDate><guid>https://mr.nickyam.com/World/The_negative_evolution_of_information_on_Internet.html</guid><description>&lt;p&gt;If anyone asks what the greatest human invention in the second half of the twentieth century is, it is definitely the Internet. Through the virtual information network, the planet has truly become an interconnected village. People of different races, different skin colours, and different faiths can instantly speak and exchange information on the Internet. But have you discovered that in recent years, the Internet has been filled with a lot of vulgar, violent, and boring information, they have begun to become the mainstream of the mass Internet. Some people have predicted that the next century, the world will enter the second Middle Ages. Why does this take place now?Let us review the two stages of Internet first :&lt;/p&gt;</description></item><item><title>Some Points about the Value of BTC</title><link>https://mr.nickyam.com/Crypto/Some_Points_about_the_Value_of_BTC.html</link><pubDate>Wed, 05 Sep 2018 20:10:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Some_Points_about_the_Value_of_BTC.html</guid><description>&lt;p&gt;I recently have been thinking of the value of Bitcoin and wanted to know the logic about BTC. As we all know, BTC is a virtual currency based on deflation logic. Due to the deflation property of its design, the greater the degree of attention, the more users, the higher price. What I came to understand recently is some controversial parts:&lt;/p&gt;</description></item><item><title>Blockchain Games in China</title><link>https://mr.nickyam.com/Crypto/Blockchain_Games_in_China.html</link><pubDate>Mon, 27 Aug 2018 19:12:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Blockchain_Games_in_China.html</guid><description>&lt;p&gt;In Year 2011, I first heard about BTC. At that moment, I thought BTC as something geek and would never be a true currency. As a curious person, I dug some coins by my SAMSUNG laptop and after a period of time just forgot BTC until I heard it again in Mid-2013 when the price rushed up to $1000 per coin. I thought BTC is a shell game then and never predicted that tons of Digital Coins would appear since then.&lt;/p&gt;</description></item><item><title>Happy Death Day</title><link>https://mr.nickyam.com/World/Happy_Death_Day.html</link><pubDate>Sun, 04 Feb 2018 20:20:00 +0800</pubDate><guid>https://mr.nickyam.com/World/Happy_Death_Day.html</guid><description>&lt;p&gt;&lt;img loading="lazy" src="https://img.nickyam.com/file/b34fa6cfc452af59f9e6a.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;If you see Happy Death Day as a horror movie, you may be disappointed; but if you treat it as a chick film, this is definitely a wonderful piece that combines elements of horror, suspense, and hilarity, and will give you many surprises.&lt;/p&gt;</description></item><item><title>Miss a Kitten</title><link>https://mr.nickyam.com/World/Miss-a-Kitten.html</link><pubDate>Sun, 28 May 2017 20:22:00 +0800</pubDate><guid>https://mr.nickyam.com/World/Miss-a-Kitten.html</guid><description>&lt;p&gt;After the morning run, I played with my iPhone in the shade of trees.&lt;/p&gt;
-&lt;p&gt;Suddenly there was a cry in baby’s voice from the flowerbeds. I followed the sound, and saw a lovely kitten sitting on the root of a tree, looking around. The sound in the little body was higher than a wave. When I was young, I had the talent to learn to call a cat. I then imitated a cat, and the eyes of the little kitten lit up, and approached me carefully, as if she had met her loved one. and followed me to the downstairs of the apartment. She was as small as the palm of mine, and the legs were not long enough when she stepped down.&lt;/p&gt;</description></item><item><title>My So Called Grandparents</title><link>https://mr.nickyam.com/World/My-So-Called-Grandparents.html</link><pubDate>Sun, 28 May 2017 20:22:00 +0800</pubDate><guid>https://mr.nickyam.com/World/My-So-Called-Grandparents.html</guid><description>&lt;p&gt;Today my mother told me something about my grandparents when I was very young, what I have forgotten.&lt;/p&gt;
-&lt;p&gt;I lived in a village called Shanhai and studied there during my primary school time. Grandpa used to work in Hangzhou and went home once a year. Every time He came back to see me, Grangpa always valued me very much, and Grandma also said that she loved me very much. Once all the family had a dinner at my house, my mother took out the coconut juice and gave it to me. But Grandpa took it and gave it to grandmother and said that I would have the opportunity to drink in the future. I think that those who really love their grandchildren should realise that children need more nutrition in their bodies.&lt;/p&gt;</description></item><item><title>The Song of Wolf</title><link>https://mr.nickyam.com/World/The_Song_of_Wolf.html</link><pubDate>Sun, 26 May 2013 20:20:00 +0800</pubDate><guid>https://mr.nickyam.com/World/The_Song_of_Wolf.html</guid><description>&lt;p&gt;When we are young,we are often told that wolves are evil and cruel.If we weep,adults may frighten us that a wolf is coming.Many editions of the well-known fairy tale Little Red Riding Hood also describe a scaring wolf intending to swallow the little girl.After all the years,we can still think of the green creepy eyes like a ghost in the darkness.But it is not the whole thing.&lt;/p&gt;</description></item><item><title>The New Stamp Of Dragon Year</title><link>https://mr.nickyam.com/World/The_New_Stamp_Of_Dragon_Year.html</link><pubDate>Sat, 07 Jan 2012 21:10:00 +0800</pubDate><guid>https://mr.nickyam.com/World/The_New_Stamp_Of_Dragon_Year.html</guid><description>&lt;!-- more --&gt;
+&lt;p&gt;Don’t go out if possible, that is the best way to protect your children.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A sudden eye disease</title>
+      <link>http://localhost:56012/World/A-sudden-eye-disease.html</link>
+      <pubDate>Sat, 18 Jan 2020 10:00:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/A-sudden-eye-disease.html</guid>
+      <description>&lt;p&gt;At 9 o&amp;rsquo;clock last night, my right eye burst into tears when I was on the Internet, and then my eyelids could not be opened. This is an eye disease I have never experienced in my life; of course, except for myopia. After ten minutes of rest, I still felt not well. I finally standed my eyelids to write a diary half-blindly, and hoped that when I fell asleep, I could heal myself.&lt;/p&gt;
+&lt;p&gt;I woke up early today and found that my symptoms did not ease. In the mirror, I found that there are some red filaments in the right eye. Just like the suspected conjunctivitis which is also known as &amp;ldquo;red eye disease&amp;rdquo;, but the symptoms of conjunctivitis are not obvious. As a person with a good attendance record, I went for work as usual. Before I start my work, I did the following things:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The resolution of macOS beta update prompts insufficient space, infinite loop restart</title>
+      <link>http://localhost:56012/Tech/The-resolution-of-macOS-beta-update-prompts-insufficient-space-infinite-loop-restart.html</link>
+      <pubDate>Fri, 10 May 2019 10:00:00 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/The-resolution-of-macOS-beta-update-prompts-insufficient-space-infinite-loop-restart.html</guid>
+      <description>&lt;p&gt;Before going out this morning, I downloaded the new macOS Catalina beta system and let it update itself. When I came back in the afternoon, I found that the system update failed, indicating that the storage space was insufficient. I encountered this situation in the past, I restarted the computer and entered the old system, and then re-updated after setting some space free.&lt;/p&gt;
+&lt;p&gt;However this time things are different. On the one hand, I still have 20GB of free hard disk space before the update. According to common sense, I should not be prompted for insufficient space. On the other hand, I could not enter the old system after the update fails. I updated the system in an infinite loop, and the update fails.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I received a Bitcoin Blackmail</title>
+      <link>http://localhost:56012/Crypto/I-received-a-Bitcoin-Blackmail.html</link>
+      <pubDate>Sun, 24 Mar 2019 08:00:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/I-received-a-Bitcoin-Blackmail.html</guid>
+      <description>&lt;p&gt;This evening, I received a special email from the mailbox that I haven&amp;rsquo;t used for a long time, a bitcoin blackmail. The email showed me the password that I have always been familiar with. Next, the mail told me that someone had captured my camera at the same time and took my private video. I was required to pay $ 999 in the form of Bitcoin. First of all, I am convinced that I have no private photos or videos; secondly, I will not accept extortion by the other party; finally, my password was changed a long time ago, so this should be from some password database when it leaked which i was involved&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The end of 2018</title>
+      <link>http://localhost:56012/World/The-end-of-2018.html</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/The-end-of-2018.html</guid>
+      <description>&lt;p&gt;In the last day of the year, while writing a summary of the year and update new year plan,I am thinking of the time.&lt;/p&gt;
+&lt;p&gt;As you get older, the proportion of your life in a lifetime is getting lower and lower, and the year is getting shorter and shorter for you. In fact, it is not that the earth is getting faster and faster, the change is the sensibility that you look at the surroundings and people,and touch the world.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The negative evolution of information on Internet</title>
+      <link>http://localhost:56012/World/The_negative_evolution_of_information_on_Internet.html</link>
+      <pubDate>Fri, 07 Sep 2018 10:20:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/The_negative_evolution_of_information_on_Internet.html</guid>
+      <description>&lt;p&gt;If anyone asks what the greatest human invention in the second half of the twentieth century is, it is definitely the Internet. Through the virtual information network, the planet has truly become an interconnected village. People of different races, different skin colours, and different faiths can instantly speak and exchange information on the Internet. But have you discovered that in recent years, the Internet has been filled with a lot of vulgar, violent, and boring information, they have begun to become the mainstream of the mass Internet. Some people have predicted that the next century, the world will enter the second Middle Ages. Why does this take place now?Let us review the two stages of Internet first :&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Some Points about the Value of BTC</title>
+      <link>http://localhost:56012/Crypto/Some_Points_about_the_Value_of_BTC.html</link>
+      <pubDate>Wed, 05 Sep 2018 20:10:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Some_Points_about_the_Value_of_BTC.html</guid>
+      <description>&lt;p&gt;I recently have been thinking of the value of Bitcoin and wanted to know the logic about BTC. As we all know, BTC is a virtual currency based on deflation logic. Due to the deflation property of its design, the greater the degree of attention, the more users, the higher price. What I came to understand recently is some controversial parts:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blockchain Games in China</title>
+      <link>http://localhost:56012/Crypto/Blockchain_Games_in_China.html</link>
+      <pubDate>Mon, 27 Aug 2018 19:12:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Blockchain_Games_in_China.html</guid>
+      <description>&lt;p&gt;In Year 2011, I first heard about BTC. At that moment, I thought BTC as something geek and would never be a true currency. As a curious person, I dug some coins by my SAMSUNG laptop and after a period of time just forgot BTC until I heard it again in Mid-2013 when the price rushed up to $1000 per coin. I thought BTC is a shell game then and never predicted that tons of Digital Coins would appear since then.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Happy Death Day</title>
+      <link>http://localhost:56012/World/Happy_Death_Day.html</link>
+      <pubDate>Sun, 04 Feb 2018 20:20:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/Happy_Death_Day.html</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.nickyam.com/file/b34fa6cfc452af59f9e6a.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If you see Happy Death Day as a horror movie, you may be disappointed; but if you treat it as a chick film, this is definitely a wonderful piece that combines elements of horror, suspense, and hilarity, and will give you many surprises.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Miss a Kitten</title>
+      <link>http://localhost:56012/World/Miss-a-Kitten.html</link>
+      <pubDate>Sun, 28 May 2017 20:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/Miss-a-Kitten.html</guid>
+      <description>&lt;p&gt;After the morning run, I played with my iPhone in the shade of trees.&lt;/p&gt;
+&lt;p&gt;Suddenly there was a cry in baby’s voice from the flowerbeds. I followed the sound, and saw a lovely kitten sitting on the root of a tree, looking around. The sound in the little  body was higher than a wave. When I was young, I had the talent to learn to call a cat. I then imitated a cat, and the eyes of the little kitten lit up, and approached me carefully, as if she had met her loved one. and followed me to the downstairs of the apartment. She was as small as the palm of mine, and the legs were not long enough when she stepped down.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My So Called Grandparents</title>
+      <link>http://localhost:56012/World/My-So-Called-Grandparents.html</link>
+      <pubDate>Sun, 28 May 2017 20:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/My-So-Called-Grandparents.html</guid>
+      <description>&lt;p&gt;Today my mother told me something about my grandparents when I was very young, what I have forgotten.&lt;/p&gt;
+&lt;p&gt;I lived in  a village called Shanhai and studied there during my primary school time.  Grandpa used to work in Hangzhou and went home once a year. Every time He came back to see me, Grangpa always valued me very much, and Grandma also said that she loved me very much. Once all the family had a dinner at my house, my mother took out the coconut juice and gave it to me. But Grandpa took it and gave it to grandmother and said that I would have the opportunity to drink in the future. I think that those who really love their grandchildren should realise that children need more nutrition in their bodies.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Song of Wolf</title>
+      <link>http://localhost:56012/World/The_Song_of_Wolf.html</link>
+      <pubDate>Sun, 26 May 2013 20:20:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/The_Song_of_Wolf.html</guid>
+      <description>&lt;p&gt;When we are young,we are often told that wolves are evil and cruel.If we weep,adults may frighten us that a wolf is coming.Many editions of the well-known fairy tale Little Red Riding Hood also describe a scaring wolf intending to swallow the little girl.After all the years,we can still think of the green creepy eyes like a ghost in the darkness.But it is not the whole thing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The New Stamp Of Dragon Year</title>
+      <link>http://localhost:56012/World/The_New_Stamp_Of_Dragon_Year.html</link>
+      <pubDate>Sat, 07 Jan 2012 21:10:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/The_New_Stamp_Of_Dragon_Year.html</guid>
+      <description>&lt;!-- more --&gt;
 &lt;p&gt;Year 2012 is the year of Dragon. And traditonally,there is a stamp for the year in China.So this year the role is dragon.The chinese creature is not the one western people think of.The werstern dragon is aggressive,howerever the chinese creature is the symbol of the empires and happiness.In fact, the chinese dragon should be called as ‘Loong’,according to his chinese pronouncation.&lt;/p&gt;
-&lt;div style="text-align: center;"&gt;
-&lt;img src="https://img.nickyam.com/file/bfd3d578579de0e33258e.jpg" alt="The New Stamp Of Dragon Year" /&gt;
+&lt;div style=&#34;text-align: center;&#34;&gt;
+  &lt;img src=&#34;https://img.nickyam.com/file/bfd3d578579de0e33258e.jpg&#34; alt=&#34;The New Stamp Of Dragon Year&#34; /&gt;
 &lt;/div&gt;
-&lt;p&gt;Then why i’m here to say something about ‘Loong’.Because this year’s loong on the stamp is somehow not so gentle. Someone thinks that the loong seems to imply that 2012 will be the year to show china’s strength.&lt;/p&gt;</description></item><item><title>If U cannot win a argument</title><link>https://mr.nickyam.com/Tech/If_U_cannot_win_a_argument.html</link><pubDate>Thu, 29 Dec 2011 10:22:00 +0800</pubDate><guid>https://mr.nickyam.com/Tech/If_U_cannot_win_a_argument.html</guid><description>&lt;!-- more --&gt;
+&lt;p&gt;Then why i’m here to say something about ‘Loong’.Because this year’s loong on the stamp is somehow not so gentle. Someone thinks that the loong seems to imply that 2012 will be the year to show china’s strength.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>If U cannot win a argument</title>
+      <link>http://localhost:56012/Tech/If_U_cannot_win_a_argument.html</link>
+      <pubDate>Thu, 29 Dec 2011 10:22:00 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/If_U_cannot_win_a_argument.html</guid>
+      <description>&lt;!-- more --&gt;
 &lt;p&gt;As long as there are humans on earth,there comes the argument.&lt;/p&gt;
 &lt;p&gt;You know,the first man Adam is not alone with Eve.&lt;/p&gt;
 &lt;p&gt;Not two leaves are the same in the world,so as humans.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s the explaination why argument is reasonable between lovers,friends,or about Academic and politics,etc.&lt;/p&gt;
 &lt;p&gt;If U cannot win a argument,how will you do?U can comment on this blog.&lt;/p&gt;
-&lt;p&gt;Here i&amp;rsquo;m going to give you guys this picture:&lt;/p&gt;</description></item><item><title>The New Trend of Speed ​​Dial</title><link>https://mr.nickyam.com/Tech/The_New_Trend_of_Speed-_Dial.html</link><pubDate>Wed, 28 Dec 2011 20:12:00 +0800</pubDate><guid>https://mr.nickyam.com/Tech/The_New_Trend_of_Speed-_Dial.html</guid><description>&lt;p&gt;We all know Speed Dial comes from Opera Browser.&lt;/p&gt;
-&lt;p&gt;Another innovation of the opera in the speed dial is the extension introduced to Speed ​​Dial. But I believe that this can be used in only a few plug-ins or extensions , not all plug-ins are suitable in the Speed ​​Dial.However, the original Speed ​​Dial feature, which is the bookmark feature, can indeed be expanded.&lt;/p&gt;</description></item><item><title>Three Lovely Presidents At GSUP</title><link>https://mr.nickyam.com/World/Three_Lovely_Presidents_At_GSUP.html</link><pubDate>Mon, 25 Apr 2011 18:12:00 +0800</pubDate><guid>https://mr.nickyam.com/World/Three_Lovely_Presidents_At_GSUP.html</guid><description>&lt;p&gt;At GSUP, I talked with some Presidents of Universities. Most of the Talks were just general affairs. For instants,&amp;ldquo;Where is my seat?&amp;ldquo;or &amp;ldquo;What is the beginning time?&amp;ldquo;and so on. But the following three were interesting exceptions.&lt;/p&gt;</description></item><item><title>About</title><link>https://mr.nickyam.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mr.nickyam.com/about/</guid><description>About Mr.Yam — East Tells West.</description></item></channel></rss>
+&lt;p&gt;Here i&amp;rsquo;m going to give you guys this picture:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The New Trend of Speed ​​Dial</title>
+      <link>http://localhost:56012/Tech/The_New_Trend_of_Speed-_Dial.html</link>
+      <pubDate>Wed, 28 Dec 2011 20:12:00 +0800</pubDate>
+      <guid>http://localhost:56012/Tech/The_New_Trend_of_Speed-_Dial.html</guid>
+      <description>&lt;p&gt;We all know Speed Dial comes from Opera Browser.&lt;/p&gt;
+&lt;p&gt;Another innovation of the opera in the speed dial is the extension introduced to Speed ​​Dial. But I believe that this can be used in only a few plug-ins or extensions , not all plug-ins are suitable in the Speed ​​Dial.However, the original Speed ​​Dial feature, which is the bookmark feature, can indeed be expanded.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Three Lovely Presidents At GSUP</title>
+      <link>http://localhost:56012/World/Three_Lovely_Presidents_At_GSUP.html</link>
+      <pubDate>Mon, 25 Apr 2011 18:12:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/Three_Lovely_Presidents_At_GSUP.html</guid>
+      <description>&lt;p&gt;At GSUP, I talked with some Presidents of Universities. Most of the Talks were just general affairs. For instants,&amp;ldquo;Where is my seat?&amp;ldquo;or &amp;ldquo;What is the beginning time?&amp;ldquo;and so on. But the following three were interesting exceptions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:56012/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56012/about/</guid>
+      <description>About Mr.Yam — East Tells West.</description>
+    </item>
+  </channel>
+</rss>

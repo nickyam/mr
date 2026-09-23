@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>FBI on Mr.Yam</title><link>https://mr.nickyam.com/tags/fbi/</link><description>Recent content in FBI on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 06 Aug 2026 12:27:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/fbi/index.xml" rel="self" type="application/rss+xml"/><item><title>FBI Agent Memorized the Seed Phrase, Stole $1 Million in Crypto</title><link>https://mr.nickyam.com/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto.html</link><pubDate>Thu, 06 Aug 2026 12:27:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto.html</guid><description>&lt;p&gt;A recently unsealed criminal complaint from the U.S. District Court for the Eastern District of Virginia has once again ripped the fig leaf off American law enforcement.&lt;/p&gt;
-&lt;p&gt;Patrick Steven Yaroch, a former FBI supervisory special agent, is accused of using his position to siphon nearly $1 million in crypto from cryptocurrency accounts linked to a &amp;ldquo;hostile nation&amp;rdquo; (reportedly Russia) that the FBI was monitoring — moving the funds into his own wallet, and even parking part of it in DeFi protocols to earn yield[1].&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>FBI on Mr.Yam</title>
+    <link>http://localhost:56012/tags/fbi/</link>
+    <description>Recent content in FBI on Mr.Yam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 06 Aug 2026 12:27:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:56012/tags/fbi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FBI Agent Memorized the Seed Phrase, Stole $1 Million in Crypto</title>
+      <link>http://localhost:56012/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto.html</link>
+      <pubDate>Thu, 06 Aug 2026 12:27:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto.html</guid>
+      <description>&lt;p&gt;A recently unsealed criminal complaint from the U.S. District Court for the Eastern District of Virginia has once again ripped the fig leaf off American law enforcement.&lt;/p&gt;
+&lt;p&gt;Patrick Steven Yaroch, a former FBI supervisory special agent, is accused of using his position to siphon nearly $1 million in crypto from cryptocurrency accounts linked to a &amp;ldquo;hostile nation&amp;rdquo; (reportedly Russia) that the FBI was monitoring — moving the funds into his own wallet, and even parking part of it in DeFi protocols to earn yield[1].&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>HK on Mr.Yam</title><link>https://mr.nickyam.com/tags/hk/</link><description>Recent content in HK on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 06 Jun 2023 20:11:32 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/hk/index.xml" rel="self" type="application/rss+xml"/><item><title>Contrasting Web3 Policies , Hong Kong's Virtual Asset Focus and Beijing's Internet 3.0 Emphasis</title><link>https://mr.nickyam.com/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing.html</link><pubDate>Tue, 06 Jun 2023 20:11:32 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing.html</guid><description>&lt;p&gt;Starting from June 1st, the guidelines for virtual asset trading platform operators and the anti-money laundering guidelines (referred to as the &amp;ldquo;Guidelines&amp;rdquo;) issued by the Hong Kong Securities and Futures Commission (SFC) have officially come into effect. The SFC has begun accepting applications for licenses from virtual asset trading platform operators and allows retail investors to use licensed virtual asset trading platforms.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HK on Mr.Yam</title>
+    <link>http://localhost:56012/tags/hk/</link>
+    <description>Recent content in HK on Mr.Yam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jun 2023 20:11:32 +0800</lastBuildDate>
+    <atom:link href="http://localhost:56012/tags/hk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contrasting Web3 Policies , Hong Kong&#39;s Virtual Asset Focus and Beijing&#39;s Internet 3.0 Emphasis</title>
+      <link>http://localhost:56012/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing.html</link>
+      <pubDate>Tue, 06 Jun 2023 20:11:32 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing.html</guid>
+      <description>&lt;p&gt;Starting from June 1st, the guidelines for virtual asset trading platform operators and the anti-money laundering guidelines (referred to as the &amp;ldquo;Guidelines&amp;rdquo;) issued by the Hong Kong Securities and Futures Commission (SFC) have officially come into effect. The SFC has begun accepting applications for licenses from virtual asset trading platform operators and allows retail investors to use licensed virtual asset trading platforms.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

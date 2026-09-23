@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Uniswap on Mr.Yam</title><link>https://mr.nickyam.com/tags/uniswap/</link><description>Recent content in Uniswap on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2023 18:12:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/uniswap/index.xml" rel="self" type="application/rss+xml"/><item><title>The Scarcer Ability , Asking the Right Questions</title><link>https://mr.nickyam.com/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions.html</link><pubDate>Wed, 19 Jul 2023 18:12:00 +0800</pubDate><guid>https://mr.nickyam.com/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions.html</guid><description>&lt;p&gt;Overnight, Bitcoin experienced slight fluctuations around $30,000, while UNI steadily rose and is now close to $6.&lt;/p&gt;
-&lt;p&gt;During the Sunday private board meeting, a member asked about the comparison between Uniswap (UNI) and Arbitrum (ARB). Both projects are undoubtedly of high quality, otherwise, the comparative analysis would be meaningless.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Uniswap on Mr.Yam</title>
+    <link>http://localhost:56012/tags/uniswap/</link>
+    <description>Recent content in Uniswap on Mr.Yam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2023 18:12:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:56012/tags/uniswap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scarcer Ability , Asking the Right Questions</title>
+      <link>http://localhost:56012/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions.html</link>
+      <pubDate>Wed, 19 Jul 2023 18:12:00 +0800</pubDate>
+      <guid>http://localhost:56012/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions.html</guid>
+      <description>&lt;p&gt;Overnight, Bitcoin experienced slight fluctuations around $30,000, while UNI steadily rose and is now close to $6.&lt;/p&gt;
+&lt;p&gt;During the Sunday private board meeting, a member asked about the comparison between Uniswap (UNI) and Arbitrum (ARB). Both projects are undoubtedly of high quality, otherwise, the comparative analysis would be meaningless.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

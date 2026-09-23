@@ -1,2 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mark on Mr.Yam</title><link>https://mr.nickyam.com/tags/mark/</link><description>Recent content in Mark on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/mark/index.xml" rel="self" type="application/rss+xml"/><item><title>The end of 2018</title><link>https://mr.nickyam.com/World/The-end-of-2018.html</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate><guid>https://mr.nickyam.com/World/The-end-of-2018.html</guid><description>&lt;p&gt;In the last day of the year, while writing a summary of the year and update new year plan,I am thinking of the time.&lt;/p&gt;
-&lt;p&gt;As you get older, the proportion of your life in a lifetime is getting lower and lower, and the year is getting shorter and shorter for you. In fact, it is not that the earth is getting faster and faster, the change is the sensibility that you look at the surroundings and people,and touch the world.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mark on Mr.Yam</title>
+    <link>http://localhost:56012/tags/mark/</link>
+    <description>Recent content in Mark on Mr.Yam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:56012/tags/mark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The end of 2018</title>
+      <link>http://localhost:56012/World/The-end-of-2018.html</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/The-end-of-2018.html</guid>
+      <description>&lt;p&gt;In the last day of the year, while writing a summary of the year and update new year plan,I am thinking of the time.&lt;/p&gt;
+&lt;p&gt;As you get older, the proportion of your life in a lifetime is getting lower and lower, and the year is getting shorter and shorter for you. In fact, it is not that the earth is getting faster and faster, the change is the sensibility that you look at the surroundings and people,and touch the world.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

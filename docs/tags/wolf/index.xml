@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Wolf on Mr.Yam</title><link>https://mr.nickyam.com/tags/wolf/</link><description>Recent content in Wolf on Mr.Yam</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 26 May 2013 20:20:00 +0800</lastBuildDate><atom:link href="https://mr.nickyam.com/tags/wolf/index.xml" rel="self" type="application/rss+xml"/><item><title>The Song of Wolf</title><link>https://mr.nickyam.com/World/The_Song_of_Wolf.html</link><pubDate>Sun, 26 May 2013 20:20:00 +0800</pubDate><guid>https://mr.nickyam.com/World/The_Song_of_Wolf.html</guid><description>&lt;p&gt;When we are young,we are often told that wolves are evil and cruel.If we weep,adults may frighten us that a wolf is coming.Many editions of the well-known fairy tale Little Red Riding Hood also describe a scaring wolf intending to swallow the little girl.After all the years,we can still think of the green creepy eyes like a ghost in the darkness.But it is not the whole thing.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wolf on Mr.Yam</title>
+    <link>http://localhost:56012/tags/wolf/</link>
+    <description>Recent content in Wolf on Mr.Yam</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2013 20:20:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:56012/tags/wolf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Song of Wolf</title>
+      <link>http://localhost:56012/World/The_Song_of_Wolf.html</link>
+      <pubDate>Sun, 26 May 2013 20:20:00 +0800</pubDate>
+      <guid>http://localhost:56012/World/The_Song_of_Wolf.html</guid>
+      <description>&lt;p&gt;When we are young,we are often told that wolves are evil and cruel.If we weep,adults may frighten us that a wolf is coming.Many editions of the well-known fairy tale Little Red Riding Hood also describe a scaring wolf intending to swallow the little girl.After all the years,we can still think of the green creepy eyes like a ghost in the darkness.But it is not the whole thing.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
