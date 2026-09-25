@@ -10,7 +10,7 @@ tags:
   - "DeepSeek"
   - "Agent"
   - "Plugin"
-url: "/Tech/DeepSeek-Harness-Made-Me-Uninstall-Codex.html"
+url: "/Tech/DeepSeek-Harness-Made-Me-Uninstall-Codex"
 ---
 
 Here is what happened.

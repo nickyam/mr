@@ -8,7 +8,7 @@ categories:
 tags:
   - "BTC"
   - "Buffett"
-url: "/Crypto/Buffett_Outperforms_Bitcoin.html"
+url: "/Crypto/Buffett_Outperforms_Bitcoin"
 ---
 
 <!-- more -->

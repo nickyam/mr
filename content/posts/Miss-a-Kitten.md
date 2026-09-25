@@ -7,7 +7,7 @@ categories:
   - "World"
 tags:
   - "Pet"
-url: "/World/Miss-a-Kitten.html"
+url: "/World/Miss-a-Kitten"
 ---
 
 After the morning run, I played with my iPhone in the shade of trees.

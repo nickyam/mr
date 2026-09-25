@@ -10,7 +10,7 @@ tags:
   - "Quantum"
   - "Security"
   - "AI"
-url: "/Crypto/The-Quantum-Sword-Honed-by-AI.html"
+url: "/Crypto/The-Quantum-Sword-Honed-by-AI"
 ---
 
 Bitcoin continues to pull back toward $76k, with the market waiting for tonight's US CPI print. The threat quantum computing poses to Bitcoin — a sword that has hung overhead for a long time — has seen some fresh movement.

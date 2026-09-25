@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/What_is_value.html"
+url: "/Crypto/What_is_value"
 ---
 
 Overnight, BTC continues to consolidate above 30k. It's a garbage time for traders but a golden time for hodlers. The longer it consolidates, the more fear it instills in many people. The more afraid they become, the less inclined they are to accumulate more or even consider reducing their holdings for safety. There is a superstitious saying among technical analysis enthusiasts, "Consolidation leads to a drop." Jiao Chain doesn't understand this saying. Drop? In which direction will it drop? If that's the case, wouldn't a 1/BTC candlestick chart indicate a rise after prolonged consolidation? It shows that technical analysis, if not entirely useless, is at least largely ineffective.

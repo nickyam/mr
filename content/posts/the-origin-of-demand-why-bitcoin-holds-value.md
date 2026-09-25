@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/the-origin-of-demand-why-bitcoin-holds-value.html"
+url: "/Crypto/the-origin-of-demand-why-bitcoin-holds-value"
 ---
 
 <!-- more -->

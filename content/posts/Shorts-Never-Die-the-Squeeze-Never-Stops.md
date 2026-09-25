@@ -10,7 +10,7 @@ tags:
   - "Short Squeeze"
   - "Derivatives"
   - "Market Analysis"
-url: "/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops.html"
+url: "/Crypto/Shorts-Never-Die-the-Squeeze-Never-Stops"
 ---
 
 Overnight, Bitcoin suddenly rallied. A single candle of more than 7% shot straight from the 81k zone to 87k, marking a new high for this rebound that began in late August. The market erupted in celebration. Some pounded their chests over missed opportunities, some scrambled to reposition, some smugly patted themselves on the back.

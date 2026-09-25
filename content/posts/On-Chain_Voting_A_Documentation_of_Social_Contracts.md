@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Voting"
-url: "/Crypto/On-Chain_Voting_A_Documentation_of_Social_Contracts.html"
+url: "/Crypto/On-Chain_Voting_A_Documentation_of_Social_Contracts"
 ---
 
 ![](https://telegraph-image.pages.dev/file/5f50b3ff760d1243ef0c0.jpg)

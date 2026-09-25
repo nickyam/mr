@@ -6,7 +6,7 @@ categories:
   - "World"
 tags:
   - "Covid-19"
-url: "/World/How-to-prevent-the-spread-of-COVID-19-when-staying-home.html"
+url: "/World/How-to-prevent-the-spread-of-COVID-19-when-staying-home"
 ---
 
 1. **Will open windows increase the chance of infection?**

@@ -7,7 +7,7 @@ categories:
   - "World"
 tags:
   - "Mark"
-url: "/World/The-end-of-2018.html"
+url: "/World/The-end-of-2018"
 aliases:
   - "/World/The-end-of -2018.html"
 ---

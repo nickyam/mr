@@ -8,7 +8,7 @@ categories:
 tags:
   - "BTC"
   - "Uniswap"
-url: "/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions.html"
+url: "/Crypto/The_Scarcer_Ability_Asking_the_Right_Questions"
 ---
 
 Overnight, Bitcoin experienced slight fluctuations around $30,000, while UNI steadily rose and is now close to $6.

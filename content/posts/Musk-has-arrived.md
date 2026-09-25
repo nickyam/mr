@@ -7,7 +7,7 @@ categories:
 tags:
   - "Musk"
   - "Tesla"
-url: "/Tech/Musk-has-arrived.html"
+url: "/Tech/Musk-has-arrived"
 ---
 
 Musk has arrived. Not only has he arrived, but he has arrived with great fanfare. And it's not just the arrival that's making headlines; he's also being received with high-profile receptions.

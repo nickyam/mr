@@ -10,7 +10,7 @@ tags:
   - "Liquid"
   - "Security"
   - "Sidechain"
-url: "/Crypto/4000-BTC-Stolen-From-Liquid.html"
+url: "/Crypto/4000-BTC-Stolen-From-Liquid"
 ---
 
 Bitcoin has been pulling back lately, with macro headwinds pushing it down to around $77k. A few days ago, something quietly unsettling happened on Liquid — Bitcoin's federated sidechain.

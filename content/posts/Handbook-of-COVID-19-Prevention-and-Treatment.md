@@ -6,7 +6,7 @@ categories:
   - "World"
 tags:
   - "Covid-19"
-url: "/World/Handbook-of-COVID-19-Prevention-and-Treatment.html"
+url: "/World/Handbook-of-COVID-19-Prevention-and-Treatment"
 aliases:
   - "/World/Handbook-of-COVID-19-Prevention and Treatment.html"
 ---

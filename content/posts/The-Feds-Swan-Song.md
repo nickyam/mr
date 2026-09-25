@@ -8,7 +8,7 @@ categories:
 tags:
   - "BTC"
   - "Fed"
-url: "/Crypto/The-Feds-Swan-Song.html"
+url: "/Crypto/The-Feds-Swan-Song"
 aliases:
   - "/Crypto/The-Fed’s-Swan-Song.html"
 ---

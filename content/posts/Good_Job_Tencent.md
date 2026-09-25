@@ -7,7 +7,7 @@ categories:
   - "Tech"
 tags:
   - "Tencent"
-url: "/Tech/Good_Job_Tencent.html"
+url: "/Tech/Good_Job_Tencent"
 ---
 
 ![](https://telegraph-image.pages.dev/file/79b1db4224de54f73e4a1.jpg)

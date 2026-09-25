@@ -7,7 +7,7 @@ categories:
   - "World"
 tags:
   - "USA"
-url: "/World/U.S._Debt_on_the_Verge_of_Default.html"
+url: "/World/U.S._Debt_on_the_Verge_of_Default"
 ---
 
 ![](https://telegraph-image.pages.dev/file/c2aeeea6af7ca3d2814f3.jpg)

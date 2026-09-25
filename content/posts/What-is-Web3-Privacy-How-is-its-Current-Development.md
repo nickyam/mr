@@ -6,7 +6,7 @@ categories:
   - "Crypto"
 tags:
   - "Web3"
-url: "/Crypto/What-is-Web3-Privacy-How-is-its-Current-Development.html"
+url: "/Crypto/What-is-Web3-Privacy-How-is-its-Current-Development"
 ---
 
 Generally speaking, internet privacy primarily concerns the invisibility of users' data information, such as their identities, behaviors, and activities. In the era of the internet, all our information and actions are presented in a digital form. However, once any system storing digital information is connected to the network, it becomes a potential target for hackers. This is especially critical when it comes to sensitive information related to finance and personal health. The privacy and security of data become even more important.

@@ -7,7 +7,7 @@ categories:
 tags:
   - "Dragon"
   - "Stamp"
-url: "/World/The_New_Stamp_Of_Dragon_Year.html"
+url: "/World/The_New_Stamp_Of_Dragon_Year"
 ---
 
 <!-- more -->

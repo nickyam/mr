@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/BlackRock_CEO_Praises_Bitcoin.html"
+url: "/Crypto/BlackRock_CEO_Praises_Bitcoin"
 ---
 
 After a sudden surge to 31k, Bitcoin quickly retreated overnight, briefly dropping below 30k and currently maintaining consolidation near that level. This scene reminded Jiao Chain of our defensive counterattacks against Vietnam in the 1970s and 1980s. We would strike with full force and swiftly retreat, engaging in a decade-long border war to exhaust and defeat the enemy. This approach avoided getting deeply entrenched in a war quagmire while effectively undermining the enemy's arrogance. By strategically retreating, occupying advantageous positions, and engaging in attritional warfare, we achieved our strategic objectives at minimal cost.

@@ -6,7 +6,7 @@ categories:
   - "World"
 tags:
   - "Covid-19"
-url: "/World/Recommendations-for-pregnant-women.html"
+url: "/World/Recommendations-for-pregnant-women"
 ---
 
 ![](https://raw.githubusercontent.com/nickyam/img/master/pics/Pregnant-woman.jpeg)

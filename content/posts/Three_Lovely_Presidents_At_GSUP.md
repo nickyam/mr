@@ -7,7 +7,7 @@ categories:
   - "World"
 tags:
   - "EDU"
-url: "/World/Three_Lovely_Presidents_At_GSUP.html"
+url: "/World/Three_Lovely_Presidents_At_GSUP"
 ---
 
 At GSUP, I talked with some Presidents of Universities. Most of the Talks were just general affairs. For instants,"Where is my seat?"or "What is the beginning time?"and so on. But the following three were interesting exceptions.

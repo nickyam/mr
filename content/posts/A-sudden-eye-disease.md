@@ -7,7 +7,7 @@ categories:
   - "World"
 tags:
   - "Life"
-url: "/World/A-sudden-eye-disease.html"
+url: "/World/A-sudden-eye-disease"
 ---
 
 At 9 o'clock last night, my right eye burst into tears when I was on the Internet, and then my eyelids could not be opened. This is an eye disease I have never experienced in my life; of course, except for myopia. After ten minutes of rest, I still felt not well. I finally standed my eyelids to write a diary half-blindly, and hoped that when I fell asleep, I could heal myself.

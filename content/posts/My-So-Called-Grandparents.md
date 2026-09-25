@@ -7,7 +7,7 @@ categories:
   - "World"
 tags:
   - "Family"
-url: "/World/My-So-Called-Grandparents.html"
+url: "/World/My-So-Called-Grandparents"
 ---
 
 Today my mother told me something about my grandparents when I was very young, what I have forgotten.

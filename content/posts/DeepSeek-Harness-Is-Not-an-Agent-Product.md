@@ -10,7 +10,7 @@ tags:
   - "DeepSeek"
   - "Agent"
   - "Plugin"
-url: "/Tech/DeepSeek-Harness-Is-Not-an-Agent-Product.html"
+url: "/Tech/DeepSeek-Harness-Is-Not-an-Agent-Product"
 ---
 
 Last week, right after the official release of DeepSeek V4 Pro, they threw out something else called DeepSeek Harness. Its GitHub stars shot to 37,000 in three days. My first reaction was: DeepSeek is finally shipping its own Agent? I installed the developer preview immediately.

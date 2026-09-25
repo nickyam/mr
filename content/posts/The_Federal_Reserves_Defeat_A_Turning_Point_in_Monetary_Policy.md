@@ -7,7 +7,7 @@ categories:
   - "World"
 tags:
   - "Fed"
-url: "/World/The_Federal_Reserves_Defeat_A_Turning_Point_in_Monetary_Policy.html"
+url: "/World/The_Federal_Reserves_Defeat_A_Turning_Point_in_Monetary_Policy"
 aliases:
   - "/World/The_Federal_Reserve's_Defeat_A_Turning_Point_in_Monetary_Policy.html"
 ---

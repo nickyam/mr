@@ -6,7 +6,7 @@ categories:
   - "Crypto"
 tags:
   - "Web3"
-url: "/Crypto/The-Essence-of-the-Internet-is-Marketing-and-Web3-is-Essentially-Financial-Marketing.html"
+url: "/Crypto/The-Essence-of-the-Internet-is-Marketing-and-Web3-is-Essentially-Financial-Marketing"
 ---
 
 There are often stories that people love to tell: Two classmates, A and B, graduated together. A joined a strict and regulated software company, while B joined an unknown internet company. Several years later, A honed their skills in standardized coding and project management, while B's company successfully went public, resulting in a skyrocketing value of their stock options and granting them financial freedom.

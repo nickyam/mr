@@ -6,7 +6,7 @@ categories:
   - "World"
 tags:
   - "Covid-19"
-url: "/World/How-to-care-for-children-during-the-epidemic.html"
+url: "/World/How-to-care-for-children-during-the-epidemic"
 ---
 
 1. how to protect your children when going out

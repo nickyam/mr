@@ -6,7 +6,7 @@ categories:
   - "Tech"
 tags:
   - "Shell"
-url: "/Tech/Device-shots.html"
+url: "/Tech/Device-shots"
 ---
 
 Device shots is an online tool for making screenshots with shells. You just need to drag the screenshots onto the web page. It supports multi brand mobile phones, tablets, computers, TVs, monitors, smart watches and other devices.

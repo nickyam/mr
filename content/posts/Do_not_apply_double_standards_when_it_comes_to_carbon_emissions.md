@@ -8,7 +8,7 @@ categories:
 tags:
   - "BTC"
   - "Tesla"
-url: "/Crypto/Do_not_apply_double_standards_when_it_comes_to_carbon_emissions.html"
+url: "/Crypto/Do_not_apply_double_standards_when_it_comes_to_carbon_emissions"
 ---
 
 ![](https://telegraph-image.pages.dev/file/e5da4dcdd5f631218f6a3.jpg)

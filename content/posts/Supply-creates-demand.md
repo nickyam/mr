@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/Supply-creates-demand.html"
+url: "/Crypto/Supply-creates-demand"
 ---
 
 Overnight, Bitcoin continues to fluctuate above $29,000. The volatility index (30-day implied volatility of option prices) has further decreased, indicating exhaustion from both the bullish and bearish sides.

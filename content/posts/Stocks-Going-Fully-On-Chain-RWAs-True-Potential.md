@@ -10,7 +10,7 @@ tags:
   - "Tokenization"
   - "Stocks"
   - "Ethereum"
-url: "/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential.html"
+url: "/Crypto/Stocks-Going-Fully-On-Chain-RWAs-True-Potential"
 ---
 
 A while back, CZ posted a view online that "IPOs will move on chain," which sparked a lot of discussion at the time.

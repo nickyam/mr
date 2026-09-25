@@ -10,7 +10,7 @@ tags:
   - "Psychology"
   - "Time"
   - "Memory"
-url: "/World/Why-the-Midpoint-of-Life-Is-18-Not-40.html"
+url: "/World/Why-the-Midpoint-of-Life-Is-18-Not-40"
 ---
 
 You have probably had that moment: scrolling through old photos, you suddenly realize that being 18 was more than a decade ago. The cicadas of your college-entrance-exam summer still seem to buzz in your ears, yet the calendar tells you plainly that you have traveled very, very far.

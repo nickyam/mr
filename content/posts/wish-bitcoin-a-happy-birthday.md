@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/wish-bitcoin-a-happy-birthday.html"
+url: "/Crypto/wish-bitcoin-a-happy-birthday"
 ---
 
 <!-- more -->

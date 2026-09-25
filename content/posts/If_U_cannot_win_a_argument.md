@@ -7,7 +7,7 @@ categories:
   - "Tech"
 tags:
   - "Life"
-url: "/Tech/If_U_cannot_win_a_argument.html"
+url: "/Tech/If_U_cannot_win_a_argument"
 ---
 
 <!-- more -->

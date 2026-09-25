@@ -8,7 +8,7 @@ categories:
 tags:
   - "Mac"
   - "Apple"
-url: "/Tech/The-resolution-of-macOS-beta-update-prompts-insufficient-space-infinite-loop-restart.html"
+url: "/Tech/The-resolution-of-macOS-beta-update-prompts-insufficient-space-infinite-loop-restart"
 ---
 
 Before going out this morning, I downloaded the new macOS Catalina beta system and let it update itself. When I came back in the afternoon, I found that the system update failed, indicating that the storage space was insufficient. I encountered this situation in the past, I restarted the computer and entered the old system, and then re-updated after setting some space free.

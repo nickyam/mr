@@ -10,7 +10,7 @@ tags:
   - "Governance"
   - "Ordinals"
   - "Softfork"
-url: "/Crypto/BIP-110-Fork-Fails-Who-Can-Change-Bitcoin.html"
+url: "/Crypto/BIP-110-Fork-Fails-Who-Can-Change-Bitcoin"
 aliases:
   - "/Crypto/BIP-110-Fork-Fails-Who-Changes-Bitcoin.html"
 ---

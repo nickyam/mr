@@ -6,7 +6,7 @@ categories:
   - "World"
 tags:
   - "Internet"
-url: "/World/The_negative_evolution_of_information_on_Internet.html"
+url: "/World/The_negative_evolution_of_information_on_Internet"
 ---
 
 If anyone asks what the greatest human invention in the second half of the twentieth century is, it is definitely the Internet. Through the virtual information network, the planet has truly become an interconnected village. People of different races, different skin colours, and different faiths can instantly speak and exchange information on the Internet. But have you discovered that in recent years, the Internet has been filled with a lot of vulgar, violent, and boring information, they have begun to become the mainstream of the mass Internet. Some people have predicted that the next century, the world will enter the second Middle Ages. Why does this take place now?Let us review the two stages of Internet first :

@@ -7,7 +7,7 @@ categories:
   - "Tech"
 tags:
   - "Browser"
-url: "/Tech/The_New_Trend_of_Speed-_Dial.html"
+url: "/Tech/The_New_Trend_of_Speed-_Dial"
 aliases:
   - "/Tech/The_New_Trend_of_Speed ​_Dial.html"
 ---

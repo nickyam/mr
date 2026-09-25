@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/Bitcoin-Minting-Tax.html"
+url: "/Crypto/Bitcoin-Minting-Tax"
 ---
 
 Overnight, Bitcoin continues to hover above $29,000. Most likely, the Federal Reserve's July interest rate meeting has commenced. Tomorrow, we should know the outcome, and the market is poised to make a decision.

@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Blockchain"
-url: "/Crypto/Blockchain_Games_in_China.html"
+url: "/Crypto/Blockchain_Games_in_China"
 ---
 
 In Year 2011, I first heard about BTC. At that moment, I thought BTC as something geek and would never be a true currency. As a curious person, I dug some coins by my SAMSUNG laptop and after a period of time just forgot BTC until I heard it again in Mid-2013 when the price rushed up to $1000 per coin. I thought BTC is a shell game then and never predicted that tons of Digital Coins would appear since then.

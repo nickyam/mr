@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Voting"
-url: "/Crypto/Voting_Methods_in_DAOs.html"
+url: "/Crypto/Voting_Methods_in_DAOs"
 ---
 
 ![](https://telegraph-image.pages.dev/file/043ad74d2fe80a746f0c2.png)

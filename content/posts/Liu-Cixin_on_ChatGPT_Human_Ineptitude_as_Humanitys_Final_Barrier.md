@@ -7,7 +7,7 @@ categories:
   - "Tech"
 tags:
   - "ChatGPT"
-url: "/Tech/Liu-Cixin_on_ChatGPT_Human_Ineptitude_as_Humanitys_Final_Barrier.html"
+url: "/Tech/Liu-Cixin_on_ChatGPT_Human_Ineptitude_as_Humanitys_Final_Barrier"
 aliases:
   - "/Tech/Liu Cixin_on_ChatGPT_Human_Ineptitude_as_Humanity's_Final_Barrier.html"
 ---

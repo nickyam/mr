@@ -6,7 +6,7 @@ categories:
   - "Crypto"
 tags:
   - "ETH"
-url: "/Crypto/On-the-Self-Limitation-of-Ethereum.html"
+url: "/Crypto/On-the-Self-Limitation-of-Ethereum"
 ---
 
 Recently, the similarities and differences between Bitcoin and Ethereum regarding the issue of price self-limitation have also been discussed. Some further thoughts and analysis are recorded below for readers' discussion and criticism.![](https://telegraph-image.pages.dev/file/3b97d5f2b70bfab540ab8.jpg)

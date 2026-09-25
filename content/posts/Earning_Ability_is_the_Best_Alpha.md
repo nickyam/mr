@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/Earning_Ability_is_the_Best_Alpha.html"
+url: "/Crypto/Earning_Ability_is_the_Best_Alpha"
 ---
 
 Overnight, Bitcoin remains above $30,000, maintaining its consolidation for the 25th day since June 23rd.

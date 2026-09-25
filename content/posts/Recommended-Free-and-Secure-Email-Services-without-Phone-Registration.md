@@ -6,7 +6,7 @@ categories:
   - "Tech"
 tags:
   - "Mail"
-url: "/Tech/Recommended-Free-and-Secure-Email-Services-without-Phone-Registration.html"
+url: "/Tech/Recommended-Free-and-Secure-Email-Services-without-Phone-Registration"
 ---
 
 Using a free anonymous email service can be advantageous for several reasons. 

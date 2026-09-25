@@ -7,7 +7,7 @@ categories:
 tags:
   - "Web3"
   - "HK"
-url: "/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing.html"
+url: "/Crypto/Contrasting_Web3_Policies_Hong_Kong_and_Beijing"
 ---
 
 Starting from June 1st, the guidelines for virtual asset trading platform operators and the anti-money laundering guidelines (referred to as the "Guidelines") issued by the Hong Kong Securities and Futures Commission (SFC) have officially come into effect. The SFC has begun accepting applications for licenses from virtual asset trading platform operators and allows retail investors to use licensed virtual asset trading platforms.

@@ -10,7 +10,7 @@ tags:
   - "Exchange"
   - "Korea"
   - "Compliance"
-url: "/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges.html"
+url: "/Crypto/South-Korea-Bans-29-Overseas-Crypto-Exchanges"
 ---
 
 Overnight, the apps of 29 overseas crypto exchanges vanished from Google Play in South Korea. This was no technical glitch — it was a surgical strike by Korean regulators.

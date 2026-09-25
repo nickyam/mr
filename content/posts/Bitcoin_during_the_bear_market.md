@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/Bitcoin_during_the_bear_market.html"
+url: "/Crypto/Bitcoin_during_the_bear_market"
 ---
 
 Overnight, Bitcoin continues to consolidate above the 30k level. Looking at the weekly chart, the previous day's court ruling regarding XRP, which obtained a 2/3 non-security designation, turned out to be a mere "show of empty positivity." It further depleted the market's strength and brought everything back to square one, continuing the trend of slight decline. Short-term speculators have been repeatedly washed out, while long-term hodlers are unable to sell. Market liquidity is drying up, yet there is a lack of substantial catalysts for a significant change, resulting in the current awkward situation.

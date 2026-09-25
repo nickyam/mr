@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/Realized_Price_Distribution_of_BTC_Coins.html"
+url: "/Crypto/Realized_Price_Distribution_of_BTC_Coins"
 ---
 
 Friends familiar with the underlying mechanisms of Bitcoin are aware that on the Bitcoin blockchain ledger, it's not individual bitcoins that are tracked, but rather individual Unspent Transaction Outputs (UTXOs). This technical term is referred to as "Unspent Transaction Output." Some refer to these as "Bitcoin coins" or BTC coins.

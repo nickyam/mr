@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/I-received-a-Bitcoin-Blackmail.html"
+url: "/Crypto/I-received-a-Bitcoin-Blackmail"
 ---
 
 This evening, I received a special email from the mailbox that I haven't used for a long time, a bitcoin blackmail. The email showed me the password that I have always been familiar with. Next, the mail told me that someone had captured my camera at the same time and took my private video. I was required to pay $ 999 in the form of Bitcoin. First of all, I am convinced that I have no private photos or videos; secondly, I will not accept extortion by the other party; finally, my password was changed a long time ago, so this should be from some password database when it leaked which i was involved

@@ -6,7 +6,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/The-Essential-Significance-of-Hoarding-Bitcoin.html"
+url: "/Crypto/The-Essential-Significance-of-Hoarding-Bitcoin"
 aliases:
   - "/Crypto/The-Essential-Significance-of-Hoarding Bitcoin.html"
 ---

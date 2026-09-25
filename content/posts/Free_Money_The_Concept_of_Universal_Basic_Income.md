@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "UBI"
-url: "/Crypto/Free_Money_The_Concept_of_Universal_Basic_Income.html"
+url: "/Crypto/Free_Money_The_Concept_of_Universal_Basic_Income"
 ---
 
 ![](https://telegraph-image.pages.dev/file/6fa1ccd08a5756a18a2ce.jpg)

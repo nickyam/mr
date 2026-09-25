@@ -10,7 +10,7 @@ tags:
   - "Security"
   - "Self-Custody"
   - "Lightning"
-url: "/Crypto/Self-Custody-Faith-Collapse-or-Rebirth.html"
+url: "/Crypto/Self-Custody-Faith-Collapse-or-Rebirth"
 ---
 
 BTC has been climbing and now sits near $65k. The weekend's market was calm. But this weekend in the Bitcoin community was destined to be anything but peaceful.

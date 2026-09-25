@@ -10,7 +10,7 @@ tags:
   - "Blockchain"
   - "AI"
   - "Chip"
-url: "/Crypto/The-Birth-of-the-On-Chain-Chip.html"
+url: "/Crypto/The-Birth-of-the-On-Chain-Chip"
 ---
 
 A fascinating and wildly imaginative project has appeared recently: tapeout.net.

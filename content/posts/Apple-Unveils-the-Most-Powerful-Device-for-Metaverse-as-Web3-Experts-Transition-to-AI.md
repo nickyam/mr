@@ -7,7 +7,7 @@ categories:
 tags:
   - "Apple"
   - "AI"
-url: "/Tech/Apple-Unveils-the-Most-Powerful-Device-for-Metaverse-as-Web3-Experts-Transition-to-AI.html"
+url: "/Tech/Apple-Unveils-the-Most-Powerful-Device-for-Metaverse-as-Web3-Experts-Transition-to-AI"
 ---
 
 The first few months of 2023 marked a turning point for the metaverse. Just as web3 experts were transitioning to AI, Apple unveiled its groundbreaking device, the Vision Pro, for the metaverse. While renowned figures like Bill Gates had previously advocated for Microsoft to go all-in on the metaverse but then shifted their focus to AI, Mark Zuckerberg, who renamed his company Meta to align with the metaverse, admitted strategic missteps and announced layoffs for a transition. Influential voices and experts who were once avid supporters of Web3 and the metaverse quickly rebranded themselves as AI enthusiasts, proclaiming AI as the future to attract followers.

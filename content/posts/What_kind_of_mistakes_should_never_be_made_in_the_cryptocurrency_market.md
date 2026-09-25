@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Investment"
-url: "/Crypto/What_kind_of_mistakes_should_never_be_made_in_the_cryptocurrency_market.html"
+url: "/Crypto/What_kind_of_mistakes_should_never_be_made_in_the_cryptocurrency_market"
 ---
 
 If you followed the investment advice of the BlackRock CEO and went long on Bitcoin yesterday, you would have probably learned your lesson from the market today.  Today, let's take a look at how Levermore, more than a hundred years ago, fell victim to trusting the views of the big shots and ended up losing money.

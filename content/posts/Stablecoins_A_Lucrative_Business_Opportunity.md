@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "Stablecoin"
-url: "/Crypto/Stablecoins_A_Lucrative_Business_Opportunity.html"
+url: "/Crypto/Stablecoins_A_Lucrative_Business_Opportunity"
 ---
 
 Earlier this month, Tether, the leading stablecoin issuer by market capitalization, released its first-quarter reserve and profit data. It's not just impressive; it's exceptionally impressive. Let's take a look at a few highlights:

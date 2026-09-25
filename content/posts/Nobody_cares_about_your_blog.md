@@ -7,7 +7,7 @@ categories:
   - "World"
 tags:
   - "Blog"
-url: "/World/Nobody_cares_about_your_blog.html"
+url: "/World/Nobody_cares_about_your_blog"
 ---
 
 I started writing on my blog some years ago, and since then I’ve had a lot of reasons to stop writing. Here’s a list of why nobody cares about your blog:

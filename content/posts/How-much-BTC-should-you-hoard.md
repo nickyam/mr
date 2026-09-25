@@ -6,7 +6,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/How-much-BTC-should-you-hoard.html"
+url: "/Crypto/How-much-BTC-should-you-hoard"
 ---
 
 Often, friends struggle to determine the target amount when formulating a long-term investment plan. Some friends, with lower incomes, find it difficult to imagine owning 1 BTC, which is valued at around $30,000 or over 200,000 RMB. On the other hand, friends with more wealth feel that buying a few BTC doesn't seem satisfying enough.

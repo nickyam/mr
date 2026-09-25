@@ -10,7 +10,7 @@ tags:
   - "Security"
   - "FBI"
   - "Custody"
-url: "/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto.html"
+url: "/Crypto/FBI-Agent-Memorized-Seed-Phrase-Stole-1M-Crypto"
 ---
 
 A recently unsealed criminal complaint from the U.S. District Court for the Eastern District of Virginia has once again ripped the fig leaf off American law enforcement.

@@ -6,7 +6,7 @@ categories:
   - "World"
 tags:
   - "Wolf"
-url: "/World/The_Song_of_Wolf.html"
+url: "/World/The_Song_of_Wolf"
 ---
 
 When we are young,we are often told that wolves are evil and cruel.If we weep,adults may frighten us that a wolf is coming.Many editions of the well-known fairy tale Little Red Riding Hood also describe a scaring wolf intending to swallow the little girl.After all the years,we can still think of the green creepy eyes like a ghost in the darkness.But it is not the whole thing.

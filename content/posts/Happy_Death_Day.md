@@ -7,7 +7,7 @@ categories:
 tags:
   - "Movie"
   - "Hollywood"
-url: "/World/Happy_Death_Day.html"
+url: "/World/Happy_Death_Day"
 ---
 
 ![](https://img.nickyam.com/file/b34fa6cfc452af59f9e6a.jpg)

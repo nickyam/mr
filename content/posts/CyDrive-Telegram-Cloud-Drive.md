@@ -9,7 +9,7 @@ tags:
   - "Telegram"
   - "Cloud Storage"
   - "WebDAV"
-url: "/Tech/CyDrive-Telegram-Cloud-Drive.html"
+url: "/Tech/CyDrive-Telegram-Cloud-Drive"
 ---
 
 ![CyDrive — mount Telegram as a cloud drive](https://img.nickyam.com/file/AgACAgUAAyEGAASS2zT1AAEBgdJqprhpoU4zpwABmG2HdTfPT7k724EAAroWaxu4lTFVZ-2LQE8oMz0BAAMCAAN5AAM9BA.png)

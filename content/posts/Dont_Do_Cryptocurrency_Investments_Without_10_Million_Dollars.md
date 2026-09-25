@@ -7,7 +7,7 @@ categories:
   - "Crypto"
 tags:
   - "BTC"
-url: "/Crypto/Dont_Do_Cryptocurrency_Investments_Without_10_Million_Dollars.html"
+url: "/Crypto/Dont_Do_Cryptocurrency_Investments_Without_10_Million_Dollars"
 aliases:
   - "/Crypto/Don't_Do_Cryptocurrency_Investments_Without_10_Million_Dollars.html"
 ---
@@ -20,7 +20,7 @@ A discussion about the entry barrier for cryptocurrency investment has sparked a
 
 The prominent figure responded succinctly: "Go find a job."
 
-Why? As mentioned in the previous "[Earnings ability is the best alpha](https://mr.nickyam.com/Crypto/Earning_Ability_is_the_Best_Alpha.html)" article.
+Why? As mentioned in the previous "[Earnings ability is the best alpha](https://mr.nickyam.com/Crypto/Earning_Ability_is_the_Best_Alpha/)" article.
 
 The conversation seemed to be on track until another KOL, a former partner at a crypto fund, made a statement that stirred the waters.
 

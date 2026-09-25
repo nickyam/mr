@@ -6,7 +6,7 @@ categories:
   - "Crypto"
 tags:
   - "Paradigm"
-url: "/Crypto/Paradigm-Betrays-the-Revolution.html"
+url: "/Crypto/Paradigm-Betrays-the-Revolution"
 ---
 
 The English word "Paradigm" means "a typical example or pattern." The most common usage is in the phrase "Paradigm Shift" , which refers to a fundamental change in the basic concepts and practices of a scientific discipline. It is a concept in the philosophy of science introduced by American physicist and philosopher Thomas Kuhn and incorporated into the general lexicon. While Kuhn initially limited the use of this term to the natural sciences, the concept of paradigm shift is also used in many non-scientific contexts to describe profound changes in fundamental models or perceptions of events.
