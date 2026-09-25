@@ -1,6 +1,6 @@
 #!/bin/bash
-# Production build -> docs/ (GitHub Pages source, served from /docs on main).
-# ALWAYS run this (never `hugo server`) right before committing, otherwise
-# docs/ may contain localhost links baked in by `hugo server`.
+# Production build -> public/ (Cloudflare Pages output dir). Run this to verify
+# the site locally; Cloudflare builds from source on push, so this is just a
+# local check. public/ is gitignored and never committed.
 cd "$(dirname "$0")"
 hugo --gc --minify

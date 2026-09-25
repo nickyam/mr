@@ -1,5 +1,6 @@
 # Hugo 构建产物 / 缓存（可再生，不纳入版本库）
 /public/
+/docs/
 /resources/
 .hugo_build.lock
 

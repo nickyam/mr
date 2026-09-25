@@ -8,9 +8,9 @@ languageCode = "en-us"
 title = "Mr.Yam"
 theme = "PaperMod"
 
-# GitHub Pages: publish the built site into /docs so it can be served from the
-# main branch's /docs folder (repo Settings > Pages > Branch: main, Folder: /docs).
-publishDir = "docs"
+# Cloudflare Pages: build output goes to /public (Hugo default). Cloudflare
+# builds from source on every push (Git integration) and serves /public.
+publishDir = "public"
 
 # Pagination (Hexo index_generator.per_page = 10)
 paginate = 10
